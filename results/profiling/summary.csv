@@ -1,0 +1,5 @@
+method,chunk_size,runs,mean_time_seconds,std_time_seconds,min_time_seconds,max_time_seconds,mean_peak_rss_mb,max_peak_rss_mb
+mapreduce,1000,3,21.744,2.829,18.873,24.53,87.34,93.2
+mapreduce,5000,3,13.733,1.325,12.204,14.546,125.34,130.05
+mapreduce,10000,3,15.27,1.322,14.134,16.721,168.67,171.72
+duckdb,,3,18.169,1.027,17.025,19.011,247.62,260.38

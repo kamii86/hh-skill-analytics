@@ -1,0 +1,7 @@
+version,run,time_seconds,peak_rss_mb,exit_code
+baseline,1,17.722,124.22,0
+optimized,1,9.439,123.39,0
+optimized,2,11.818,121.05,0
+baseline,2,9.977,122.0,0
+baseline,3,13.278,130.81,0
+optimized,3,9.776,126.77,0

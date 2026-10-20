@@ -1,0 +1,13 @@
+method,chunk_size,run,time_seconds,peak_rss_mb,exit_code
+mapreduce,1000,1,18.873,85.47,0
+mapreduce,1000,2,24.53,93.2,0
+mapreduce,1000,3,21.829,83.36,0
+mapreduce,5000,1,14.546,127.28,0
+mapreduce,5000,2,14.449,118.69,0
+mapreduce,5000,3,12.204,130.05,0
+mapreduce,10000,1,16.721,171.72,0
+mapreduce,10000,2,14.954,166.25,0
+mapreduce,10000,3,14.134,168.05,0
+duckdb,,1,19.011,260.38,0
+duckdb,,2,18.472,228.03,0
+duckdb,,3,17.025,254.45,0

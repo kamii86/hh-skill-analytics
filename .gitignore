@@ -1,0 +1,34 @@
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and macOS
+.DS_Store
+.idea/
+.vscode/
+
+# Input data
+data/
+Raw_Jobs.csv
+vacancies.json
+*.parquet
+*.jsonl
+
+# Logs and temporary files
+*.log
+.cache/
+.pytest_cache/
+.ruff_cache/
+
+# Private audit data
+results/audit/
+
+# Archives
+*.zip
