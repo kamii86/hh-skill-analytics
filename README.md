@@ -354,3 +354,11 @@ python -m src.create_figures
 Результаты собственной реализации MapReduce совпали с независимыми SQL-расчётами DuckDB. Проверена независимость результатов от размера чанка.
 
 Выполнены анализ зарплат, региональное сравнение, профилирование, оптимизация вычислений и тест восстановления после сбоя.
+
+
+## ДЗ 4. Apache ZooKeeper
+
+[Отчёт и результаты опытов](docs/zookeeper_report.md).
+
+Ансамбль: `compose.zookeeper.yaml`. Координатор: `src/zk_coordinator.py`.
+Опыты: `python -m src.zk_experiment --fencing 0` и `python -m src.zk_experiment --fencing 1`.

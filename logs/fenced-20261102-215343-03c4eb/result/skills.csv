@@ -1,0 +1,384 @@
+skill,count
+ios,106
+git,104
+swift,94
+android,89
+kotlin,78
+ооп,56
+java,51
+android sdk,38
+flutter,34
+objective-c,28
+dart,27
+мобильные приложения,23
+mvvm,22
+xcode,22
+uikit,19
+solid,18
+английский язык,17
+удаленная работа,17
+rest api,16
+http,15
+sqlite,15
+android studio,14
+json,13
+react native,13
+javascript,12
+mvc,11
+mvp,11
+rest,11
+realm,10
+работа в команде,10
+ios sdk,9
+react,9
+retrofit,9
+coredata,8
+figma,8
+json api,8
+swiftui,8
+viper,8
+firebase,7
+sql,7
+atlassian jira,6
+ci/cd,6
+html,6
+typescript,6
+умение работать в условиях многозадачности,6
+c#,5
+mac os,5
+mysql,5
+scrum,5
+unit testing,5
+websocket,5
+мобильная разработка,5
+ответственность,5
+agile,4
+api,4
+clean architecture,4
+combine,4
+coroutines,4
+css,4
+gitlab,4
+linux,4
+macos,4
+rxswift,4
+ui,4
+unity,4
+xml,4
+мобильные приложение,4
+оптимизация кода,4
+паттерны проектирования,4
+работа в условиях многозадачности,4
+управление командой,4
+agile project management,3
+alamofire,3
+cocoapods,3
+dagger,3
+dagger2,3
+design patterns,3
+docker,3
+game programming,3
+gamedev,3
+gcd,3
+github,3
+gradle,3
+jetpack compose,3
+jira,3
+node.js,3
+restful api,3
+rxjava,3
+svn,3
+грамотная устная и письменная речь,3
+деловая коммуникация,3
+креативность,3
+обучение и развитие,3
+программирование,3
+разработка по,3
+разработка технических заданий,3
+amplitude,2
+androidx,2
+autolayout,2
+bloc,2
+core data,2
+coroutine,2
+development,2
+di,2
+es6,2
+fastlane,2
+foundation,2
+frontend,2
+google maps api,2
+iphone,2
+koin,2
+mobile,2
+mobile developer,2
+mvp координаторы,2
+react.js,2
+redux,2
+rx,2
+rx swift,2
+saas,2
+snapkit,2
+swift ui,2
+unity 3d,2
+websockets,2
+yandex maps api,2
+желание учиться и развиваться,2
+знание английского языка,2
+коммуникабельность,2
+лидерские качества,2
+принятие решений,2
+проработка архитектуры,2
+разработка cms,2
+разработка мобильных приложений,2
+разработка приложений,2
+рефакторинг кода,2
+руководство коллективом,2
+сбор и анализ информации,2
+свифт,2
+тестирование,2
+эффективное принятие решений,2
+1с программирование,1
+1с: предприятие 8,1
+3d,1
+3d моделирование,1
+adaptersdelegate,1
+alfa auto,1
+anchorage,1
+android architecture components,1
+android jetpack,1
+android-разработчик,1
+aosp,1
+app store,1
+appletv,1
+arc,1
+arkit,1
+async/await,1
+atlassian confluence,1
+auto layout,1
+backend,1
+bitbucket,1
+blockchain,1
+c/c++,1
+ci,1
+cicerone,1
+cl,1
+clean arch,1
+cocoa,1
+code review,1
+codegen,1
+conductor,1
+confluence,1
+cordova,1
+core animation,1
+crashlytics,1
+cubit,1
+dagger 2,1
+databinding,1
+developer,1
+dio,1
+dry,1
+es5,1
+express,1
+flows,1
+flutter dart,1
+gcd (qos),1
+generamba,1
+git ci/cd,1
+google api,1
+google play market,1
+gorouter,1
+grdb,1
+grpc,1
+gson,1
+hig,1
+hokey app,1
+hr,1
+html/css,1
+https,1
+injector,1
+intellij idea,1
+ios hig,1
+ios toolchain,1
+ios-разработчик,1
+iot,1
+ipad,1
+java core,1
+java script,1
+java se,1
+java/kotlin,1
+jetpack components,1
+jquery,1
+kanban,1
+kiss,1
+kotlin coroutines,1
+kotline,1
+less,1
+libgdx,1
+macos monterey,1
+material desing,1
+mercurial,1
+miro,1
+mobx,1
+mockito,1
+moxy,1
+moya,1
+ms project,1
+ms sql,1
+ms sql server,1
+ms visual studio,1
+navigation components,1
+ndk,1
+next.js,1
+nodejs,1
+oauth,1
+okhttp/rertofit,1
+oop,1
+orm,1
+people management,1
+postgresql,1
+protocol oriented programming,1
+provider,1
+pvt,1
+python,1
+qt,1
+react/redux,1
+reactivex,1
+reactnative,1
+realitykit,1
+rest | ws,1
+restapi,1
+restful,1
+restfull,1
+riverpod,1
+room,1
+room service,1
+rxalamofire,1
+rxjava2,1
+scenekit,1
+scss,1
+sdk,1
+solid works,1
+solidworks,1
+ssr,1
+storekit,1
+swift 5.0,1
+swift alliance,1
+system каталог android,1
+tcp,1
+teamcity,1
+trello,1
+ui анимация,1
+ui-тесты,1
+ui/ux,1
+unit-тесты,1
+unity3d,1
+ux,1
+viewbinding,1
+vue,1
+watchkit,1
+web,1
+web3,1
+webkit,1
+webrtc,1
+webview,1
+xcodegen,1
+yandex mapkit,1
+zoom,1
+австралийское время,1
+администрирование серверов windows,1
+активное слушание,1
+алгоритмы и структуры данных,1
+амбициозность,1
+анализ конкурентной среды,1
+аналитическое мышление,1
+английский - а1- начальный,1
+английский язык (upper-intermediate),1
+асинхронное программирование,1
+быстрое обучение,1
+веб-программирование,1
+внимательность,1
+высокие коммуникативные навыки,1
+гдм,1
+гидродинамическое моделирование,1
+готовность к стрессовым ситуациям,1
+готовность обучаться,1
+грамотная письменная речь,1
+грамотная речь,1
+деловая переписка,1
+договорная работа,1
+дружелюбие,1
+дружелюбность,1
+ескд,1
+желание обучаться,1
+желание работать и развиваться,1
+желание расти и развиваться,1
+заинтересованность,1
+знание ms office,1
+информационные технологии,1
+командная работа,1
+конструирование,1
+критически мыслить,1
+линейное программирование,1
+многопоточное программирование,1
+мобильность,1
+навыки презентации,1
+нативная сборка мобильных приложений,1
+обучаемость,1
+обучение,1
+опп,1
+опыт работы в команде,1
+опыт работы с людьми,1
+опытный пользовать пк,1
+основы программирования,1
+ответственность и пунктуальность,1
+планирование карьеры,1
+позитивное мышление,1
+поиск информации в интернет,1
+поиск персонала в открытых источниках,1
+постановка задач разработчикам,1
+приложения,1
+принципы проектирования,1
+проведение интервью,1
+проведение презентаций,1
+проведение тестирований,1
+программист,1
+программист класса junior - middle,1
+продвинутый пользователь пк,1
+проектно-конструкторская деятельность,1
+работа в много-задачном режиме,1
+работа с большим пулом запросов,1
+работа с ключевыми клиентами,1
+разговорный английский,1
+разносторонность,1
+разработка,1
+разработка компьютерных игр,1
+разработка мобильного приложения,1
+разработка продукта,1
+разработчик,1
+разрешение конфликтных ситуаций,1
+с#,1
+самостоятельная работа,1
+свободное владение английским языком,1
+составление тз,1
+социальные сети,1
+спокойствие,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,1
+способность работать в режиме многозадачности,1
+стабильность,1
+стремление к профессиональному росту,1
+терпение,1
+умение анализировать,1
+умение быстро усваивать новую информацию,1
+умение находить общий язык,1
+умение организовать работу,1
+умение проявлять внимание,1
+умение работать в коллективе,1
+умение работать с большим количеством информации,1
+умение работать с клиентами,1
+умение работать с людьми,1
+управление временем,1
+управление интернет-проектами,1
+управление проектами,1
+хорошая память,1
+эффективное решение проблем,1

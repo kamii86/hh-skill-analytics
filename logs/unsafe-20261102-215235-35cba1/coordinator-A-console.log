@@ -1,0 +1,13 @@
+{"event": "SESSION", "time": 1793645555.911665, "monotonic": 327503.385602708, "pid": 79299, "state": "CONNECTED"}
+{"event": "READY", "time": 1793645555.963679, "monotonic": 327503.43761525, "pid": 79299, "owner": "coordinator-A", "fencing": false, "session_timeout": 10, "root": "/hh-hw4/unsafe-20261102-215235-35cba1"}
+{"event": "LEADER", "time": 1793645555.969368, "monotonic": 327503.443304333, "pid": 79299, "owner": "coordinator-A", "epoch": 1}
+{"event": "RESTORE", "time": 1793645555.970206, "monotonic": 327503.444142416, "pid": 79299, "chunks": 0}
+{"event": "CHECKPOINT", "time": 1793645557.148364, "monotonic": 327504.622285833, "pid": 79299, "chunks": 5, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645558.32738, "monotonic": 327505.801288125, "pid": 79299, "chunks": 10, "epoch": 1}
+{"event": "SESSION", "time": 1793645598.7726789, "monotonic": 327546.246189125, "pid": 79299, "state": "SUSPENDED"}
+{"event": "SESSION", "time": 1793645598.833548, "monotonic": 327546.307058625, "pid": 79299, "state": "LOST"}
+{"event": "SESSION", "time": 1793645598.86625, "monotonic": 327546.339760166, "pid": 79299, "state": "CONNECTED"}
+{"event": "CHECKPOINT_REJECTED", "time": 1793645599.5680408, "monotonic": 327547.041543916, "pid": 79299, "error": "BadVersionError", "epoch": 1}
+{"event": "VERIFIED", "time": 1793645622.7678888, "monotonic": 327570.2411835, "pid": 79299, "sha256": {"skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba", "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94", "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"}, "stats": {"total_rows": 561989, "selected_rows": 321, "rows_with_skills": 262, "duplicate_rows": 3}, "unique_pairs": 3674, "pair_count": 6039}
+{"event": "PUBLISHED", "time": 1793645622.840823, "monotonic": 327570.314116541, "pid": 79299, "message": "записал результат", "owner": "coordinator-A", "epoch": 1, "pointer_version": 2}
+{"event": "SESSION", "time": 1793645622.847462, "monotonic": 327570.3207555, "pid": 79299, "state": "LOST"}

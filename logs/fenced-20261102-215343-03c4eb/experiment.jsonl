@@ -1,0 +1,6 @@
+{"event": "START", "time": 1793645623.419766, "monotonic": 327570.893068166, "owner": "coordinator-A", "pid": 79349}
+{"event": "START", "time": 1793645626.0001001, "monotonic": 327573.47336625, "owner": "coordinator-B", "pid": 79359}
+{"event": "SIGSTOP", "time": 1793645626.308584, "monotonic": 327573.781846958, "pid": 79349}
+{"event": "FAILOVER", "time": 1793645638.054375, "monotonic": 327585.527533625, "seconds": 11.73196658300003, "epoch": 2}
+{"event": "SIGCONT", "time": 1793645666.3129861, "monotonic": 327613.78589225, "pid": 79349}
+{"event": "PASS", "time": 1793645690.685602, "monotonic": 327638.158291083, "summary": "summary.json"}

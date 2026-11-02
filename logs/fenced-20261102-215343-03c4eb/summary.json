@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "run_id": "fenced-20261102-215343-03c4eb",
+  "fencing": true,
+  "failover_seconds": 11.73196658300003,
+  "restored_chunks": 10,
+  "publication_count": 1,
+  "pointer_version": 1,
+  "pointer": {
+    "owner": "coordinator-B",
+    "epoch": 2,
+    "prefix": "hw4/fenced-20261102-215343-03c4eb/coordinator-B-a52744a8b56a4863b0b0bc3460f90eba/results",
+    "sha256": {
+      "skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba",
+      "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94",
+      "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"
+    }
+  },
+  "current_epoch": 2,
+  "epoch_version": 2,
+  "sha256": {
+    "skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba",
+    "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94",
+    "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"
+  },
+  "verified": [
+    {
+      "event": "VERIFIED",
+      "time": 1793645690.353324,
+      "monotonic": 327637.826015125,
+      "pid": 79349,
+      "sha256": {
+        "skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba",
+        "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94",
+        "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"
+      },
+      "stats": {
+        "total_rows": 561989,
+        "selected_rows": 321,
+        "rows_with_skills": 262,
+        "duplicate_rows": 3
+      },
+      "unique_pairs": 3674,
+      "pair_count": 6039
+    },
+    {
+      "event": "VERIFIED",
+      "time": 1793645663.739008,
+      "monotonic": 327611.211936916,
+      "pid": 79359,
+      "sha256": {
+        "skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba",
+        "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94",
+        "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"
+      },
+      "stats": {
+        "total_rows": 561989,
+        "selected_rows": 321,
+        "rows_with_skills": 262,
+        "duplicate_rows": 3
+      },
+      "unique_pairs": 3674,
+      "pair_count": 6039
+    }
+  ]
+}

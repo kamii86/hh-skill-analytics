@@ -32,3 +32,7 @@ results/audit/
 
 # Archives
 *.zip
+
+# ZooKeeper homework evidence
+!logs/**/*.log
+!logs/**/*.jsonl

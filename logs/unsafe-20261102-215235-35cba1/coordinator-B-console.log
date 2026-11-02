@@ -1,0 +1,28 @@
+{"event": "SESSION", "time": 1793645558.597158, "monotonic": 327506.071063333, "pid": 79307, "state": "CONNECTED"}
+{"event": "READY", "time": 1793645558.671627, "monotonic": 327506.145531083, "pid": 79307, "owner": "coordinator-B", "fencing": false, "session_timeout": 10, "root": "/hh-hw4/unsafe-20261102-215235-35cba1"}
+{"event": "LEADER", "time": 1793645570.071306, "monotonic": 327517.54508825, "pid": 79307, "owner": "coordinator-B", "epoch": 2}
+{"event": "RESTORE", "time": 1793645570.0988748, "monotonic": 327517.572657708, "pid": 79307, "chunks": 10, "key": "hw4/unsafe-20261102-215235-35cba1/coordinator-A-bc376c9a75d64514999239d1d9c28b25/checkpoints/10.json"}
+{"event": "CHECKPOINT", "time": 1793645571.9208488, "monotonic": 327519.394612083, "pid": 79307, "chunks": 15, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645573.125702, "monotonic": 327520.599453458, "pid": 79307, "chunks": 20, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645574.327829, "monotonic": 327521.801568916, "pid": 79307, "chunks": 25, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645575.532568, "monotonic": 327523.006296, "pid": 79307, "chunks": 30, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645576.74274, "monotonic": 327524.216456166, "pid": 79307, "chunks": 35, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645577.954407, "monotonic": 327525.428111208, "pid": 79307, "chunks": 40, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645579.180175, "monotonic": 327526.653867333, "pid": 79307, "chunks": 45, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645580.382783, "monotonic": 327527.856463875, "pid": 79307, "chunks": 50, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645581.5922601, "monotonic": 327529.065929458, "pid": 79307, "chunks": 55, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645582.805117, "monotonic": 327530.278775458, "pid": 79307, "chunks": 60, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645584.005111, "monotonic": 327531.478757666, "pid": 79307, "chunks": 65, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645585.2319639, "monotonic": 327532.705599041, "pid": 79307, "chunks": 70, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645586.4319959, "monotonic": 327533.905620208, "pid": 79307, "chunks": 75, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645587.616694, "monotonic": 327535.090306708, "pid": 79307, "chunks": 80, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645588.8050508, "monotonic": 327536.278652916, "pid": 79307, "chunks": 85, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645590.013437, "monotonic": 327537.487027791, "pid": 79307, "chunks": 90, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645591.247624, "monotonic": 327538.721203666, "pid": 79307, "chunks": 95, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645592.4788759, "monotonic": 327539.952444041, "pid": 79307, "chunks": 100, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645593.7100182, "monotonic": 327541.183574416, "pid": 79307, "chunks": 105, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645594.927041, "monotonic": 327542.400586125, "pid": 79307, "chunks": 110, "epoch": 2}
+{"event": "CHECKPOINT", "time": 1793645595.8385978, "monotonic": 327543.312135541, "pid": 79307, "chunks": 113, "epoch": 2}
+{"event": "VERIFIED", "time": 1793645595.8804102, "monotonic": 327543.353947333, "pid": 79307, "sha256": {"skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba", "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94", "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"}, "stats": {"total_rows": 561989, "selected_rows": 321, "rows_with_skills": 262, "duplicate_rows": 3}, "unique_pairs": 3674, "pair_count": 6039}
+{"event": "PUBLISHED", "time": 1793645595.938314, "monotonic": 327543.41185, "pid": 79307, "message": "записал результат", "owner": "coordinator-B", "epoch": 2, "pointer_version": 1}
+{"event": "SESSION", "time": 1793645595.943915, "monotonic": 327543.417451583, "pid": 79307, "state": "LOST"}

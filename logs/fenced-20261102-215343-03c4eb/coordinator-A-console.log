@@ -1,0 +1,13 @@
+{"event": "SESSION", "time": 1793645623.623072, "monotonic": 327571.096359208, "pid": 79349, "state": "CONNECTED"}
+{"event": "READY", "time": 1793645623.639779, "monotonic": 327571.1130655, "pid": 79349, "owner": "coordinator-A", "fencing": true, "session_timeout": 10, "root": "/hh-hw4/fenced-20261102-215343-03c4eb"}
+{"event": "LEADER", "time": 1793645623.643161, "monotonic": 327571.116447541, "pid": 79349, "owner": "coordinator-A", "epoch": 1}
+{"event": "RESTORE", "time": 1793645623.6447308, "monotonic": 327571.1180175, "pid": 79349, "chunks": 0}
+{"event": "CHECKPOINT", "time": 1793645624.755714, "monotonic": 327572.2289905, "pid": 79349, "chunks": 5, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645625.9666429, "monotonic": 327573.439908416, "pid": 79349, "chunks": 10, "epoch": 1}
+{"event": "SESSION", "time": 1793645666.323796, "monotonic": 327613.796701666, "pid": 79349, "state": "SUSPENDED"}
+{"event": "SESSION", "time": 1793645666.366327, "monotonic": 327613.839232166, "pid": 79349, "state": "LOST"}
+{"event": "SESSION", "time": 1793645666.3978271, "monotonic": 327613.870732125, "pid": 79349, "state": "CONNECTED"}
+{"event": "CHECKPOINT_REJECTED", "time": 1793645667.156497, "monotonic": 327614.629394708, "pid": 79349, "error": "BadVersionError", "epoch": 1}
+{"event": "VERIFIED", "time": 1793645690.353324, "monotonic": 327637.826015125, "pid": 79349, "sha256": {"skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba", "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94", "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"}, "stats": {"total_rows": 561989, "selected_rows": 321, "rows_with_skills": 262, "duplicate_rows": 3}, "unique_pairs": 3674, "pair_count": 6039}
+{"event": "REJECTED", "time": 1793645690.435662, "monotonic": 327637.908352583, "pid": 79349, "error": "BadVersionError", "owner": "coordinator-A", "epoch": 1}
+{"event": "SESSION", "time": 1793645690.441507, "monotonic": 327637.914198458, "pid": 79349, "state": "LOST"}

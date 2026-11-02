@@ -1,0 +1,30 @@
+{"event": "SESSION", "time": 1793645297.165086, "monotonic": 327244.650637375, "pid": 79167, "state": "CONNECTED"}
+{"event": "READY", "time": 1793645297.275437, "monotonic": 327244.76098625, "pid": 79167, "owner": "coordinator-A", "fencing": true, "session_timeout": 10, "root": "/hh-hw4/check-20261102-214816"}
+{"event": "LEADER", "time": 1793645297.2936268, "monotonic": 327244.779176, "pid": 79167, "owner": "coordinator-A", "epoch": 1}
+{"event": "RESTORE", "time": 1793645297.295049, "monotonic": 327244.780598333, "pid": 79167, "chunks": 0}
+{"event": "CHECKPOINT", "time": 1793645297.8905768, "monotonic": 327245.376121541, "pid": 79167, "chunks": 5, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645298.326816, "monotonic": 327245.812357833, "pid": 79167, "chunks": 10, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645298.6660962, "monotonic": 327246.15163575, "pid": 79167, "chunks": 15, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645299.0855381, "monotonic": 327246.571074791, "pid": 79167, "chunks": 20, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645299.4710588, "monotonic": 327246.956593041, "pid": 79167, "chunks": 25, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645299.828089, "monotonic": 327247.31362, "pid": 79167, "chunks": 30, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645300.2426019, "monotonic": 327247.728130333, "pid": 79167, "chunks": 35, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645300.638595, "monotonic": 327248.124119916, "pid": 79167, "chunks": 40, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645300.997004, "monotonic": 327248.482526541, "pid": 79167, "chunks": 45, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645301.348683, "monotonic": 327248.834202958, "pid": 79167, "chunks": 50, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645301.728811, "monotonic": 327249.214328958, "pid": 79167, "chunks": 55, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645302.07266, "monotonic": 327249.5581755, "pid": 79167, "chunks": 60, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645302.430638, "monotonic": 327249.916151125, "pid": 79167, "chunks": 65, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645302.793969, "monotonic": 327250.279479166, "pid": 79167, "chunks": 70, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645303.141342, "monotonic": 327250.626849916, "pid": 79167, "chunks": 75, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645303.48126, "monotonic": 327250.966765625, "pid": 79167, "chunks": 80, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645303.8260548, "monotonic": 327251.311558125, "pid": 79167, "chunks": 85, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645304.1791658, "monotonic": 327251.664666375, "pid": 79167, "chunks": 90, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645304.5465941, "monotonic": 327252.032091708, "pid": 79167, "chunks": 95, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645304.905407, "monotonic": 327252.390902, "pid": 79167, "chunks": 100, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645305.2528331, "monotonic": 327252.738325666, "pid": 79167, "chunks": 105, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645305.6425412, "monotonic": 327253.128030875, "pid": 79167, "chunks": 110, "epoch": 1}
+{"event": "CHECKPOINT", "time": 1793645305.825654, "monotonic": 327253.311142666, "pid": 79167, "chunks": 113, "epoch": 1}
+{"event": "VERIFIED", "time": 1793645305.858706, "monotonic": 327253.344194375, "pid": 79167, "sha256": {"skills.csv": "be838913b86010efb0e17767933894ea641682e1ad04b6a3c1296b3fc9095fba", "pairs.csv": "2e889e18e7913757aa79678cc46c8b69915714375267be957b3fd8cd91d1cc94", "triples.csv": "2387a3f508ed1e5c9ac28f9b7932da30e7fe3c5744da7599a3c8f4570ba8bce5"}, "stats": {"total_rows": 561989, "selected_rows": 321, "rows_with_skills": 262, "duplicate_rows": 3}, "unique_pairs": 3674, "pair_count": 6039}
+{"event": "PUBLISHED", "time": 1793645305.920597, "monotonic": 327253.406084666, "pid": 79167, "message": "записал результат", "owner": "coordinator-A", "epoch": 1, "pointer_version": 1}
+{"event": "SESSION", "time": 1793645305.925337, "monotonic": 327253.410825583, "pid": 79167, "state": "LOST"}

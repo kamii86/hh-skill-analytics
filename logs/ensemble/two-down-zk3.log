@@ -1,0 +1,100 @@
+zk3-1  | java.net.ConnectException: Connection refused
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:22,904 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 400 ms
+zk3-1  | 2026-11-02 18:15:22,904 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-6:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 2 at election address zk2/172.21.0.3:3888
+zk3-1  | java.net.ConnectException: Connection refused
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:23,311 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 800 ms
+zk3-1  | 2026-11-02 18:15:24,118 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 1600 ms
+zk3-1  | 2026-11-02 18:15:25,719 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 3200 ms
+zk3-1  | 2026-11-02 18:15:27,911 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-8:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 1 at election address zk1/172.21.0.2:3888
+zk3-1  | java.net.SocketTimeoutException: Connect timed out
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:28,321 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-6:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 2 at election address zk2/172.21.0.3:3888
+zk3-1  | java.net.SocketTimeoutException: Connect timed out
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:28,921 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 6400 ms
+zk3-1  | 2026-11-02 18:15:33,931 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-6:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 1 at election address zk1/172.21.0.2:3888
+zk3-1  | java.net.SocketTimeoutException: Connect timed out
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:33,931 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-8:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 2 at election address zk2/172.21.0.3:3888
+zk3-1  | java.net.SocketTimeoutException: Connect timed out
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:35,326 [myid:] - INFO  [QuorumPeer[myid=3](plain=[0:0:0:0:0:0:0:0]:2181)(secure=disabled):o.a.z.s.q.FastLeaderElection@997] - Notification time out: 12800 ms
+zk3-1  | 2026-11-02 18:15:38,430 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-6:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 2 at election address zk2/172.21.0.3:3888
+zk3-1  | java.net.NoRouteToHostException: No route to host
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+zk3-1  | 	at java.base/sun.nio.ch.Net.pollConnectNow(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:40,330 [myid:] - WARN  [QuorumConnectionThread-[myid=3]-8:o.a.z.s.q.QuorumCnxManager@398] - Cannot open channel to 1 at election address zk1/172.21.0.2:3888
+zk3-1  | java.net.SocketTimeoutException: Connect timed out
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(Unknown Source)
+zk3-1  | 	at java.base/sun.nio.ch.NioSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.SocksSocketImpl.connect(Unknown Source)
+zk3-1  | 	at java.base/java.net.Socket.connect(Unknown Source)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager.initiateConnection(QuorumCnxManager.java:381)
+zk3-1  | 	at org.apache.zookeeper.server.quorum.QuorumCnxManager$QuorumConnectionReqThread.run(QuorumCnxManager.java:455)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+zk3-1  | 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+zk3-1  | 	at java.base/java.lang.Thread.run(Unknown Source)
+zk3-1  | 2026-11-02 18:15:43,484 [myid:] - INFO  [NIOWorkerThread-5:o.a.z.s.NIOServerCnxn@532] - Processing srvr command from /127.0.0.1:55184

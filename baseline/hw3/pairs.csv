@@ -1,0 +1,3675 @@
+skill_1,skill_2,count
+ios,swift,70
+git,ios,52
+android,kotlin,49
+git,swift,41
+java,kotlin,38
+android,git,37
+git,ооп,36
+android,java,33
+android sdk,kotlin,28
+android,android sdk,26
+android,ios,26
+dart,flutter,26
+ios,ооп,26
+objective-c,swift,26
+android sdk,java,25
+git,kotlin,25
+swift,ооп,23
+flutter,git,22
+flutter,ios,20
+ios,objective-c,20
+ios,xcode,20
+kotlin,ооп,20
+android,flutter,19
+ios,мобильные приложения,19
+git,java,18
+swift,uikit,18
+swift,xcode,18
+dart,git,17
+dart,ios,15
+git,xcode,15
+kotlin,mvvm,15
+android,dart,14
+android sdk,git,14
+git,rest api,14
+ios,uikit,14
+swift,мобильные приложения,14
+android studio,kotlin,13
+java,ооп,13
+android,ооп,12
+android studio,java,12
+git,objective-c,12
+android,android studio,11
+git,sqlite,11
+git,мобильные приложения,11
+solid,ооп,11
+android,mvvm,10
+android,sqlite,10
+solid,swift,10
+android sdk,ооп,9
+git,uikit,9
+ios,удаленная работа,9
+ios sdk,swift,9
+kotlin,mvp,9
+mvp,mvvm,9
+objective-c,мобильные приложения,9
+realm,swift,9
+android,мобильные приложения,8
+coredata,swift,8
+flutter,rest api,8
+git,http,8
+git,json api,8
+git,react native,8
+git,rest,8
+git,solid,8
+http,swift,8
+ios,rest api,8
+ios,solid,8
+ios,sqlite,8
+ios,английский язык,8
+kotlin,retrofit,8
+objective-c,ооп,8
+swift,viper,8
+uikit,ооп,8
+xcode,ооп,8
+английский язык,ооп,8
+android,mvp,7
+android,rest api,7
+android,английский язык,7
+figma,kotlin,7
+flutter,мобильные приложения,7
+git,удаленная работа,7
+http,ios,7
+http,json,7
+kotlin,solid,7
+kotlin,swift,7
+mvvm,swift,7
+objective-c,xcode,7
+react,react native,7
+rest,swift,7
+xcode,мобильные приложения,7
+android sdk,android studio,6
+android sdk,английский язык,6
+coredata,ios,6
+dart,мобильные приложения,6
+dart,ооп,6
+flutter,ооп,6
+git,json,6
+git,react,6
+git,realm,6
+ios,json,6
+ios,mvc,6
+java,sqlite,6
+kotlin,английский язык,6
+mvc,swift,6
+swift,удаленная работа,6
+android,json api,5
+android,mvc,5
+android,удаленная работа,5
+android sdk,http,5
+android sdk,sqlite,5
+android studio,git,5
+android studio,ооп,5
+coredata,objective-c,5
+dart,json api,5
+dart,mysql,5
+flutter,json api,5
+flutter,kotlin,5
+flutter,mysql,5
+git,ios sdk,5
+git,javascript,5
+git,mvc,5
+git,mvvm,5
+git,scrum,5
+git,swiftui,5
+git,viper,5
+git,английский язык,5
+http,kotlin,5
+http,sqlite,5
+ios,json api,5
+ios,realm,5
+ios,rest,5
+ios,swiftui,5
+ios,viper,5
+ios sdk,objective-c,5
+java,английский язык,5
+javascript,react,5
+javascript,react native,5
+json,swift,5
+json api,sqlite,5
+kotlin,sqlite,5
+mvvm,ооп,5
+objective-c,realm,5
+react native,rest api,5
+react native,typescript,5
+realm,viper,5
+swift,swiftui,5
+swift,английский язык,5
+мобильные приложения,ооп,5
+android,figma,4
+android,firebase,4
+android,http,4
+android,mysql,4
+android,swift,4
+android,мобильные приложение,4
+android sdk,retrofit,4
+atlassian jira,git,4
+atlassian jira,swift,4
+c#,unity,4
+coredata,git,4
+coredata,мобильные приложения,4
+coroutines,kotlin,4
+dart,rest api,4
+dart,sqlite,4
+dart,мобильные приложение,4
+firebase,ios,4
+flutter,sqlite,4
+flutter,swift,4
+flutter,мобильные приложение,4
+flutter,удаленная работа,4
+git,mysql,4
+git,retrofit,4
+git,typescript,4
+git,unit testing,4
+git,мобильные приложение,4
+git,умение работать в условиях многозадачности,4
+html,javascript,4
+http,java,4
+http,objective-c,4
+http,realm,4
+http,rest,4
+ios,kotlin,4
+ios,mac os,4
+ios,mvvm,4
+ios,mysql,4
+ios,websocket,4
+ios,мобильные приложение,4
+ios,работа в команде,4
+java,javascript,4
+java,json,4
+java,mvvm,4
+java,swift,4
+java,xml,4
+javascript,kotlin,4
+json,objective-c,4
+json api,mysql,4
+json api,мобильные приложение,4
+kotlin,мобильная разработка,4
+mvc,мобильные приложения,4
+mvvm,uikit,4
+mysql,sqlite,4
+mysql,мобильные приложение,4
+objective-c,rest,4
+objective-c,viper,4
+react,ооп,4
+react native,ооп,4
+realm,sqlite,4
+retrofit,ооп,4
+rxswift,swift,4
+solid,uikit,4
+sqlite,swift,4
+sqlite,мобильные приложение,4
+swift,unit testing,4
+swift,websocket,4
+английский язык,работа в команде,4
+ооп,работа в команде,4
+ооп,удаленная работа,4
+ооп,умение работать в условиях многозадачности,4
+android,c#,3
+android,design patterns,3
+android,retrofit,3
+android,sql,3
+android,xcode,3
+android,мобильная разработка,3
+android,работа в условиях многозадачности,3
+android sdk,dagger2,3
+android sdk,gradle,3
+android sdk,linux,3
+android sdk,удаленная работа,3
+android studio,sqlite,3
+api,java,3
+api,kotlin,3
+atlassian jira,ios,3
+c#,git,3
+c#,ios,3
+c#,ооп,3
+cocoapods,swift,3
+combine,git,3
+coredata,http,3
+coredata,mvc,3
+coredata,realm,3
+coredata,sqlite,3
+coredata,xcode,3
+coroutines,mvvm,3
+css,git,3
+css,html,3
+css,javascript,3
+css,typescript,3
+dagger,git,3
+dagger,java,3
+dagger,kotlin,3
+dagger2,kotlin,3
+dart,kotlin,3
+dart,solid,3
+figma,git,3
+firebase,rest api,3
+flutter,java,3
+flutter,solid,3
+game programming,gamedev,3
+gcd,swiftui,3
+git,mac os,3
+git,mvp,3
+git,restful api,3
+git,sql,3
+git,svn,3
+git,ui,3
+git,паттерны проектирования,3
+git,программирование,3
+git,работа в команде,3
+gradle,kotlin,3
+http,solid,3
+http,websocket,3
+http,ооп,3
+ios,java,3
+ios,macos,3
+ios,rxswift,3
+ios,ui,3
+ios,креативность,3
+java,linux,3
+java,mvp,3
+java,sql,3
+java,xcode,3
+java,мобильные приложения,3
+java,удаленная работа,3
+javascript,typescript,3
+jetpack compose,kotlin,3
+json,kotlin,3
+json,realm,3
+json,rest,3
+json,sqlite,3
+json,xml,3
+json,мобильные приложения,3
+kotlin,mvc,3
+kotlin,rxjava,3
+kotlin,sql,3
+kotlin,xml,3
+kotlin,программирование,3
+kotlin,удаленная работа,3
+mvc,mvvm,3
+mvc,objective-c,3
+mvc,uikit,3
+mvc,xcode,3
+mvc,ооп,3
+mvp,ооп,3
+objective-c,sqlite,3
+react,rest api,3
+react,typescript,3
+realm,rest,3
+realm,unit testing,3
+rest,sqlite,3
+rest,мобильные приложения,3
+rest api,swift,3
+rest api,ооп,3
+sqlite,ооп,3
+swift,ui,3
+swift,программирование,3
+swift,работа в команде,3
+swift,управление командой,3
+uikit,xcode,3
+uikit,мобильные приложения,3
+unit testing,viper,3
+viper,xcode,3
+xcode,удаленная работа,3
+мобильные приложения,удаленная работа,3
+ооп,паттерны проектирования,3
+ооп,программирование,3
+ответственность,разработка технических заданий,3
+agile,ios,2
+agile,jira,2
+agile project management,android,2
+agile project management,английский язык,2
+agile project management,работа в команде,2
+alamofire,git,2
+alamofire,ios,2
+alamofire,swift,2
+alamofire,uikit,2
+amplitude,firebase,2
+amplitude,mvp,2
+amplitude,mvvm,2
+android,api,2
+android,ci/cd,2
+android,coroutines,2
+android,dagger2,2
+android,google maps api,2
+android,javascript,2
+android,json,2
+android,linux,2
+android,react native,2
+android,rest,2
+android,rx,2
+android,scrum,2
+android,solid,2
+android,svn,2
+android,unity,2
+android,xml,2
+android,yandex maps api,2
+android,оптимизация кода,2
+android,работа в команде,2
+android,умение работать в условиях многозадачности,2
+android sdk,dagger,2
+android sdk,design patterns,2
+android sdk,flutter,2
+android sdk,json,2
+android sdk,json api,2
+android sdk,koin,2
+android sdk,mvp,2
+android sdk,mvvm,2
+android sdk,restful api,2
+android sdk,solid,2
+android sdk,xml,2
+android sdk,желание учиться и развиваться,2
+android sdk,оптимизация кода,2
+android sdk,работа в команде,2
+android studio,flutter,2
+android studio,mvc,2
+android studio,retrofit,2
+android studio,удаленная работа,2
+androidx,kotlin,2
+api,git,2
+api,html,2
+api,javascript,2
+api,json,2
+api,xml,2
+atlassian jira,realm,2
+autolayout,git,2
+autolayout,realm,2
+autolayout,swift,2
+autolayout,unit testing,2
+bloc,dart,2
+bloc,flutter,2
+c#,game programming,2
+c#,gamedev,2
+c#,мобильные приложения,2
+ci/cd,git,2
+ci/cd,gitlab,2
+ci/cd,kotlin,2
+ci/cd,realm,2
+ci/cd,swift,2
+clean architecture,kotlin,2
+clean architecture,solid,2
+cocoapods,git,2
+cocoapods,ios,2
+cocoapods,uikit,2
+combine,ios,2
+combine,swiftui,2
+core data,git,2
+core data,realm,2
+core data,swift,2
+coredata,development,2
+coredata,json,2
+coredata,rest,2
+coredata,разработка cms,2
+coredata,разработка приложений,2
+coredata,рефакторинг кода,2
+coredata,свифт,2
+coroutine,java,2
+coroutine,kotlin,2
+coroutine,ооп,2
+coroutines,retrofit,2
+css,react,2
+css,react native,2
+css,redux,2
+css,rest api,2
+dagger,ооп,2
+dart,firebase,2
+dart,java,2
+dart,javascript,2
+dart,mvc,2
+dart,swift,2
+dart,работа в команде,2
+dart,удаленная работа,2
+dart,умение работать в условиях многозадачности,2
+design patterns,java,2
+design patterns,kotlin,2
+development,ios,2
+development,mvc,2
+development,objective-c,2
+development,swift,2
+development,xcode,2
+development,мобильные приложения,2
+development,разработка cms,2
+development,разработка приложений,2
+development,рефакторинг кода,2
+development,свифт,2
+di,solid,2
+docker,git,2
+docker,javascript,2
+docker,typescript,2
+es6,git,2
+es6,javascript,2
+es6,react native,2
+figma,flutter,2
+figma,mvvm,2
+firebase,flutter,2
+firebase,git,2
+firebase,java,2
+firebase,kotlin,2
+firebase,mvp,2
+firebase,mvvm,2
+firebase,swift,2
+flutter,mvc,2
+flutter,objective-c,2
+flutter,react native,2
+flutter,работа в команде,2
+flutter,умение работать в условиях многозадачности,2
+foundation,git,2
+foundation,ios,2
+foundation,swift,2
+foundation,uikit,2
+foundation,ооп,2
+frontend,git,2
+frontend,javascript,2
+frontend,react,2
+frontend,ооп,2
+game programming,git,2
+game programming,unity,2
+game programming,ооп,2
+gamedev,git,2
+gamedev,unity,2
+gamedev,ооп,2
+gcd,git,2
+git,gitlab,2
+git,html,2
+git,macos,2
+git,mobile,2
+git,mobile developer,2
+git,mvp координаторы,2
+git,redux,2
+git,rx swift,2
+git,rxswift,2
+git,saas,2
+git,unity,2
+git,мобильная разработка,2
+git,обучение и развитие,2
+git,работа в условиях многозадачности,2
+git,разработка по,2
+git,сбор и анализ информации,2
+git,тестирование,2
+github,kotlin,2
+gitlab,kotlin,2
+gitlab,mvvm,2
+gitlab,solid,2
+gitlab,swift,2
+google maps api,ios,2
+google maps api,yandex maps api,2
+gradle,java,2
+gradle,ооп,2
+html,java,2
+html,json,2
+html,kotlin,2
+html,react,2
+html,react native,2
+html,typescript,2
+html,xml,2
+http,json api,2
+http,linux,2
+http,rest api,2
+http,svn,2
+http,swiftui,2
+http,ui,2
+http,viper,2
+http,xcode,2
+http,xml,2
+http,мобильные приложения,2
+ios,ios sdk,2
+ios,iphone,2
+ios,mvp,2
+ios,react native,2
+ios,scrum,2
+ios,swift ui,2
+ios,unity,2
+ios,unity 3d,2
+ios,yandex maps api,2
+ios,оптимизация кода,2
+ios,разработка cms,2
+ios,разработка по,2
+ios,разработка приложений,2
+ios,рефакторинг кода,2
+ios,сбор и анализ информации,2
+ios,свифт,2
+ios,тестирование,2
+ios,умение работать в условиях многозадачности,2
+ios sdk,realm,2
+ios sdk,uikit,2
+ios sdk,unit testing,2
+ios sdk,viper,2
+iphone,objective-c,2
+iphone,swift,2
+java,mvc,2
+java,retrofit,2
+java,rxjava,2
+java,svn,2
+java,оптимизация кода,2
+java,работа в условиях многозадачности,2
+java,умение работать в условиях многозадачности,2
+javascript,json,2
+javascript,react.js,2
+javascript,redux,2
+javascript,rest,2
+javascript,scrum,2
+javascript,swift,2
+javascript,xml,2
+javascript,ооп,2
+jetpack compose,retrofit,2
+jetpack compose,ооп,2
+jira,паттерны проектирования,2
+json,json api,2
+json,linux,2
+json,mac os,2
+json,rest api,2
+json,svn,2
+json,xcode,2
+json,ооп,2
+kotlin,mobile,2
+kotlin,mobile developer,2
+kotlin,mvp координаторы,2
+kotlin,rest,2
+kotlin,rx,2
+kotlin,rx swift,2
+kotlin,websockets,2
+kotlin,xcode,2
+kotlin,мобильные приложения,2
+kotlin,оптимизация кода,2
+kotlin,ответственность,2
+kotlin,работа в команде,2
+mac os,objective-c,2
+mac os,xcode,2
+mac os,ооп,2
+macos,realm,2
+macos,swift,2
+mobile,mobile developer,2
+mobile,mvp координаторы,2
+mobile,rx swift,2
+mobile,solid,2
+mobile,swift,2
+mobile,мобильная разработка,2
+mobile,ооп,2
+mobile,программирование,2
+mobile developer,mvp координаторы,2
+mobile developer,rx swift,2
+mobile developer,solid,2
+mobile developer,swift,2
+mobile developer,мобильная разработка,2
+mobile developer,ооп,2
+mobile developer,программирование,2
+mvc,realm,2
+mvc,разработка cms,2
+mvc,разработка приложений,2
+mvc,рефакторинг кода,2
+mvc,свифт,2
+mvp,swift,2
+mvp координаторы,rx swift,2
+mvp координаторы,solid,2
+mvp координаторы,swift,2
+mvp координаторы,мобильная разработка,2
+mvp координаторы,ооп,2
+mvp координаторы,программирование,2
+mvvm,solid,2
+mvvm,xcode,2
+mvvm,английский язык,2
+mvvm,работа в команде,2
+node.js,react,2
+node.js,react native,2
+objective-c,unit testing,2
+objective-c,разработка cms,2
+objective-c,разработка приложений,2
+objective-c,рефакторинг кода,2
+objective-c,руководство коллективом,2
+objective-c,свифт,2
+objective-c,управление командой,2
+react,redux,2
+react,rest,2
+react native,react.js,2
+react native,мобильные приложения,2
+react native,удаленная работа,2
+realm,ui,2
+realm,xcode,2
+realm,мобильные приложения,2
+redux,typescript,2
+rest,viper,2
+rest,ооп,2
+rest api,solid,2
+rest api,typescript,2
+rest api,мобильные приложения,2
+rest api,удаленная работа,2
+restful api,retrofit,2
+restful api,ооп,2
+rx swift,solid,2
+rx swift,swift,2
+rx swift,мобильная разработка,2
+rx swift,ооп,2
+rx swift,программирование,2
+rxjava,solid,2
+rxswift,solid,2
+rxswift,sql,2
+rxswift,uikit,2
+saas,ооп,2
+solid,swiftui,2
+solid,ui,2
+solid,websocket,2
+solid,мобильная разработка,2
+solid,мобильные приложения,2
+solid,программирование,2
+sql,swift,2
+sql,uikit,2
+sql,ооп,2
+sqlite,svn,2
+sqlite,xml,2
+sqlite,мобильные приложения,2
+swift,swift ui,2
+swift,мобильная разработка,2
+swift,обучение и развитие,2
+swift,оптимизация кода,2
+swift,разработка cms,2
+swift,разработка приложений,2
+swift,рефакторинг кода,2
+swift,руководство коллективом,2
+swift,свифт,2
+swift,умение работать в условиях многозадачности,2
+swiftui,uikit,2
+ui,ооп,2
+uikit,unit testing,2
+uikit,viper,2
+uikit,удаленная работа,2
+unity,ооп,2
+viper,мобильные приложения,2
+websocket,ооп,2
+xcode,английский язык,2
+xcode,разработка cms,2
+xcode,разработка по,2
+xcode,разработка приложений,2
+xcode,рефакторинг кода,2
+xcode,сбор и анализ информации,2
+xcode,свифт,2
+xcode,тестирование,2
+xcode,умение работать в условиях многозадачности,2
+английский язык,деловая коммуникация,2
+грамотная устная и письменная речь,ооп,2
+грамотная устная и письменная речь,ответственность,2
+деловая коммуникация,работа в команде,2
+желание учиться и развиваться,ооп,2
+желание учиться и развиваться,работа в команде,2
+знание английского языка,работа в команде,2
+коммуникабельность,ответственность,2
+лидерские качества,принятие решений,2
+лидерские качества,проработка архитектуры,2
+мобильная разработка,ооп,2
+мобильная разработка,программирование,2
+мобильные приложения,разработка cms,2
+мобильные приложения,разработка приложений,2
+мобильные приложения,рефакторинг кода,2
+мобильные приложения,свифт,2
+обучение и развитие,ооп,2
+обучение и развитие,работа в команде,2
+ооп,ответственность,2
+ооп,разработка по,2
+ооп,сбор и анализ информации,2
+ооп,тестирование,2
+ооп,эффективное принятие решений,2
+паттерны проектирования,умение работать в условиях многозадачности,2
+принятие решений,проработка архитектуры,2
+работа в условиях многозадачности,умение работать в условиях многозадачности,2
+разработка cms,разработка приложений,2
+разработка cms,рефакторинг кода,2
+разработка cms,свифт,2
+разработка по,сбор и анализ информации,2
+разработка по,тестирование,2
+разработка приложений,рефакторинг кода,2
+разработка приложений,свифт,2
+рефакторинг кода,свифт,2
+руководство коллективом,управление командой,2
+сбор и анализ информации,тестирование,2
+1с программирование,1с: предприятие 8,1
+1с программирование,alfa auto,1
+1с программирование,ms sql server,1
+1с программирование,администрирование серверов windows,1
+1с: предприятие 8,alfa auto,1
+1с: предприятие 8,ms sql server,1
+1с: предприятие 8,администрирование серверов windows,1
+3d,pvt,1
+3d,гдм,1
+3d,гидродинамическое моделирование,1
+3d моделирование,ms project,1
+3d моделирование,solidworks,1
+3d моделирование,ескд,1
+3d моделирование,конструирование,1
+3d моделирование,проектно-конструкторская деятельность,1
+adaptersdelegate,android architecture components,1
+adaptersdelegate,android sdk,1
+adaptersdelegate,atlassian confluence,1
+adaptersdelegate,atlassian jira,1
+adaptersdelegate,cicerone,1
+adaptersdelegate,git,1
+adaptersdelegate,http,1
+adaptersdelegate,jetpack components,1
+adaptersdelegate,json api,1
+adaptersdelegate,koin,1
+adaptersdelegate,kotlin coroutines,1
+adaptersdelegate,restful api,1
+adaptersdelegate,retrofit,1
+adaptersdelegate,viewbinding,1
+agile,agile project management,1
+agile,android,1
+agile,ci/cd,1
+agile,docker,1
+agile,git,1
+agile,gitlab,1
+agile,json,1
+agile,kanban,1
+agile,mac os,1
+agile,react native,1
+agile,swift,1
+agile,trello,1
+agile,typescript,1
+agile,uikit,1
+agile,unit testing,1
+agile,viper,1
+agile,английский язык,1
+agile,грамотная устная и письменная речь,1
+agile,деловая коммуникация,1
+agile,мобильная разработка,1
+agile,мобильные приложения,1
+agile,ооп,1
+agile,паттерны проектирования,1
+agile,работа в команде,1
+agile,разработка продукта,1
+agile,управление проектами,1
+agile project management,android sdk,1
+agile project management,ios,1
+agile project management,java,1
+agile project management,jira,1
+agile project management,kotlin,1
+agile project management,trello,1
+agile project management,деловая коммуникация,1
+agile project management,мобильная разработка,1
+agile project management,мобильные приложения,1
+agile project management,проведение интервью,1
+agile project management,работа в условиях многозадачности,1
+agile project management,спокойствие,1
+agile project management,умение находить общий язык,1
+agile project management,управление командой,1
+agile project management,управление проектами,1
+alamofire,combine,1
+alamofire,core animation,1
+alamofire,fastlane,1
+alamofire,foundation,1
+alamofire,gcd (qos),1
+alamofire,hokey app,1
+alamofire,moya,1
+alamofire,mvvm,1
+alamofire,snapkit,1
+alamofire,swift 5.0,1
+alamofire,ui-тесты,1
+alamofire,unit-тесты,1
+alamofire,лидерские качества,1
+alamofire,ооп,1
+alamofire,принятие решений,1
+alamofire,проработка архитектуры,1
+alfa auto,ms sql server,1
+alfa auto,администрирование серверов windows,1
+amplitude,android,1
+amplitude,figma,1
+amplitude,ios,1
+amplitude,kotlin,1
+amplitude,swift,1
+amplitude,uikit,1
+anchorage,auto layout,1
+anchorage,combine,1
+anchorage,gcd,1
+anchorage,git,1
+anchorage,grdb,1
+anchorage,http,1
+anchorage,ios,1
+anchorage,json,1
+anchorage,swiftui,1
+anchorage,webrtc,1
+anchorage,xcodegen,1
+android,androidx,1
+android,aosp,1
+android,atlassian jira,1
+android,bloc,1
+android,codegen,1
+android,conductor,1
+android,cubit,1
+android,dagger 2,1
+android,developer,1
+android,dio,1
+android,frontend,1
+android,game programming,1
+android,gamedev,1
+android,git ci/cd,1
+android,github,1
+android,gitlab,1
+android,google play market,1
+android,gorouter,1
+android,gradle,1
+android,intellij idea,1
+android,iphone,1
+android,java core,1
+android,java se,1
+android,java/kotlin,1
+android,jetpack compose,1
+android,jira,1
+android,jquery,1
+android,kotline,1
+android,mac os,1
+android,macos,1
+android,macos monterey,1
+android,material desing,1
+android,mercurial,1
+android,mockito,1
+android,moxy,1
+android,ms visual studio,1
+android,ndk,1
+android,objective-c,1
+android,provider,1
+android,python,1
+android,qt,1
+android,react,1
+android,reactivex,1
+android,realm,1
+android,restfull,1
+android,riverpod,1
+android,room,1
+android,rxjava,1
+android,system каталог android,1
+android,trello,1
+android,unit testing,1
+android,unity 3d,1
+android,unity3d,1
+android,vue,1
+android,web,1
+android,webkit,1
+android,websocket,1
+android,webview,1
+android,австралийское время,1
+android,алгоритмы и структуры данных,1
+android,аналитическое мышление,1
+android,асинхронное программирование,1
+android,быстрое обучение,1
+android,веб-программирование,1
+android,грамотная речь,1
+android,деловая коммуникация,1
+android,дружелюбие,1
+android,дружелюбность,1
+android,желание работать и развиваться,1
+android,заинтересованность,1
+android,знание ms office,1
+android,командная работа,1
+android,линейное программирование,1
+android,мобильность,1
+android,нативная сборка мобильных приложений,1
+android,опыт работы в команде,1
+android,опытный пользовать пк,1
+android,ответственность,1
+android,ответственность и пунктуальность,1
+android,паттерны проектирования,1
+android,планирование карьеры,1
+android,приложения,1
+android,проведение интервью,1
+android,программирование,1
+android,программист,1
+android,работа с большим пулом запросов,1
+android,разговорный английский,1
+android,разносторонность,1
+android,разработка,1
+android,разработчик,1
+android,с#,1
+android,свободное владение английским языком,1
+android,спокойствие,1
+android,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+android,стремление к профессиональному росту,1
+android,умение анализировать,1
+android,умение быстро усваивать новую информацию,1
+android,умение находить общий язык,1
+android,умение проявлять внимание,1
+android,умение работать в коллективе,1
+android,управление командой,1
+android,управление проектами,1
+android,эффективное принятие решений,1
+android,эффективное решение проблем,1
+android architecture components,android sdk,1
+android architecture components,atlassian confluence,1
+android architecture components,atlassian jira,1
+android architecture components,cicerone,1
+android architecture components,git,1
+android architecture components,http,1
+android architecture components,jetpack components,1
+android architecture components,json api,1
+android architecture components,koin,1
+android architecture components,kotlin coroutines,1
+android architecture components,restful api,1
+android architecture components,retrofit,1
+android architecture components,viewbinding,1
+android jetpack,coroutine,1
+android jetpack,dagger,1
+android jetpack,git,1
+android jetpack,gson,1
+android jetpack,java,1
+android jetpack,kotlin,1
+android jetpack,mvvm,1
+android jetpack,okhttp/rertofit,1
+android jetpack,solid works,1
+android jetpack,websockets,1
+android jetpack,yandex mapkit,1
+android jetpack,ооп,1
+android sdk,androidx,1
+android sdk,aosp,1
+android sdk,api,1
+android sdk,atlassian confluence,1
+android sdk,atlassian jira,1
+android sdk,cicerone,1
+android sdk,clean architecture,1
+android sdk,conductor,1
+android sdk,cordova,1
+android sdk,coroutines,1
+android sdk,dart,1
+android sdk,figma,1
+android sdk,firebase,1
+android sdk,google api,1
+android sdk,google play market,1
+android sdk,intellij idea,1
+android sdk,ios,1
+android sdk,iot,1
+android sdk,java core,1
+android sdk,java se,1
+android sdk,javascript,1
+android sdk,jetpack components,1
+android sdk,kotlin coroutines,1
+android sdk,moxy,1
+android sdk,ndk,1
+android sdk,nodejs,1
+android sdk,reactnative,1
+android sdk,rest,1
+android sdk,room service,1
+android sdk,rxjava2,1
+android sdk,sql,1
+android sdk,svn,1
+android sdk,swift,1
+android sdk,system каталог android,1
+android sdk,ui,1
+android sdk,viewbinding,1
+android sdk,websockets,1
+android sdk,xcode,1
+android sdk,алгоритмы и структуры данных,1
+android sdk,быстрое обучение,1
+android sdk,веб-программирование,1
+android sdk,знание ms office,1
+android sdk,знание английского языка,1
+android sdk,лидерские качества,1
+android sdk,линейное программирование,1
+android sdk,мобильность,1
+android sdk,мобильные приложения,1
+android sdk,опыт работы в команде,1
+android sdk,опытный пользовать пк,1
+android sdk,ответственность,1
+android sdk,паттерны проектирования,1
+android sdk,принятие решений,1
+android sdk,проработка архитектуры,1
+android sdk,работа в условиях многозадачности,1
+android sdk,разносторонность,1
+android sdk,разработка мобильных приложений,1
+android sdk,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+android sdk,умение анализировать,1
+android sdk,умение быстро усваивать новую информацию,1
+android sdk,умение работать в условиях многозадачности,1
+android sdk,эффективное принятие решений,1
+android sdk,эффективное решение проблем,1
+android studio,c#,1
+android studio,dagger,1
+android studio,dart,1
+android studio,design patterns,1
+android studio,developer,1
+android studio,figma,1
+android studio,frontend,1
+android studio,http,1
+android studio,ios,1
+android studio,iphone,1
+android studio,java core,1
+android studio,javascript,1
+android studio,jquery,1
+android studio,ms visual studio,1
+android studio,mvp,1
+android studio,mvvm,1
+android studio,objective-c,1
+android studio,react,1
+android studio,react native,1
+android studio,restful api,1
+android studio,room service,1
+android studio,rxjava,1
+android studio,swift,1
+android studio,vue,1
+android studio,xcode,1
+android studio,xml,1
+android studio,алгоритмы и структуры данных,1
+android studio,английский язык,1
+android studio,мобильные приложения,1
+android studio,оптимизация кода,1
+android studio,опыт работы в команде,1
+android studio,приложения,1
+android studio,программирование,1
+android studio,программист,1
+android studio,разработка,1
+android studio,разработчик,1
+android-разработчик,kotlin,1
+android-разработчик,удаленная работа,1
+androidx,coroutines,1
+androidx,firebase,1
+androidx,gradle,1
+androidx,java,1
+androidx,koin,1
+androidx,material desing,1
+androidx,mockito,1
+androidx,reactivex,1
+androidx,retrofit,1
+androidx,ооп,1
+aosp,java,1
+aosp,linux,1
+aosp,ndk,1
+aosp,system каталог android,1
+aosp,мобильность,1
+api,http,1
+api,ios,1
+api,линейное программирование,1
+app store,atlassian jira,1
+app store,coredata,1
+app store,git,1
+app store,ios,1
+app store,swift,1
+appletv,coredata,1
+appletv,git,1
+appletv,http,1
+appletv,https,1
+appletv,ios,1
+appletv,oauth,1
+appletv,objective-c,1
+appletv,realm,1
+appletv,restful,1
+appletv,sqlite,1
+appletv,swift,1
+appletv,viper,1
+appletv,websocket,1
+appletv,xcode,1
+arc,autolayout,1
+arc,cocoa,1
+arc,cocoapods,1
+arc,generamba,1
+arc,git,1
+arc,ios sdk,1
+arc,mvc,1
+arc,orm,1
+arc,protocol oriented programming,1
+arc,realm,1
+arc,rest,1
+arc,rxalamofire,1
+arc,rxswift,1
+arc,sql,1
+arc,swift,1
+arc,uikit,1
+arc,unit testing,1
+arc,viper,1
+arc,многопоточное программирование,1
+arkit,ios,1
+arkit,realitykit,1
+arkit,scenekit,1
+arkit,swift,1
+arkit,unity 3d,1
+arkit,креативность,1
+arkit,работа в команде,1
+async/await,clean architecture,1
+async/await,combine,1
+async/await,di,1
+async/await,github,1
+async/await,ios toolchain,1
+async/await,restapi,1
+async/await,solid,1
+async/await,swiftui,1
+async/await,опп,1
+atlassian confluence,atlassian jira,1
+atlassian confluence,cicerone,1
+atlassian confluence,git,1
+atlassian confluence,http,1
+atlassian confluence,jetpack components,1
+atlassian confluence,json api,1
+atlassian confluence,koin,1
+atlassian confluence,kotlin coroutines,1
+atlassian confluence,restful api,1
+atlassian confluence,retrofit,1
+atlassian confluence,viewbinding,1
+atlassian jira,autolayout,1
+atlassian jira,ci/cd,1
+atlassian jira,cicerone,1
+atlassian jira,cl,1
+atlassian jira,coredata,1
+atlassian jira,figma,1
+atlassian jira,gcd,1
+atlassian jira,gitlab,1
+atlassian jira,http,1
+atlassian jira,ios hig,1
+atlassian jira,jetpack components,1
+atlassian jira,jetpack compose,1
+atlassian jira,json api,1
+atlassian jira,koin,1
+atlassian jira,kotlin,1
+atlassian jira,kotlin coroutines,1
+atlassian jira,macos,1
+atlassian jira,mvc,1
+atlassian jira,mvvm,1
+atlassian jira,objective-c,1
+atlassian jira,restful api,1
+atlassian jira,retrofit,1
+atlassian jira,rx,1
+atlassian jira,scrum,1
+atlassian jira,storekit,1
+atlassian jira,swift ui,1
+atlassian jira,swiftui,1
+atlassian jira,ui,1
+atlassian jira,unit testing,1
+atlassian jira,ux,1
+atlassian jira,viewbinding,1
+atlassian jira,watchkit,1
+atlassian jira,английский язык,1
+atlassian jira,оптимизация кода,1
+atlassian jira,проведение тестирований,1
+atlassian jira,удаленная работа,1
+auto layout,combine,1
+auto layout,gcd,1
+auto layout,git,1
+auto layout,grdb,1
+auto layout,http,1
+auto layout,ios,1
+auto layout,json,1
+auto layout,swiftui,1
+auto layout,webrtc,1
+auto layout,xcodegen,1
+autolayout,cl,1
+autolayout,cocoa,1
+autolayout,cocoapods,1
+autolayout,gcd,1
+autolayout,generamba,1
+autolayout,ios hig,1
+autolayout,ios sdk,1
+autolayout,macos,1
+autolayout,mvc,1
+autolayout,objective-c,1
+autolayout,orm,1
+autolayout,protocol oriented programming,1
+autolayout,rest,1
+autolayout,rxalamofire,1
+autolayout,rxswift,1
+autolayout,scrum,1
+autolayout,sql,1
+autolayout,storekit,1
+autolayout,swiftui,1
+autolayout,ui,1
+autolayout,uikit,1
+autolayout,ux,1
+autolayout,viper,1
+autolayout,watchkit,1
+autolayout,многопоточное программирование,1
+backend,game programming,1
+backend,gamedev,1
+backend,git,1
+backend,java,1
+bitbucket,bloc,1
+bitbucket,ci/cd,1
+bitbucket,dart,1
+bitbucket,flutter,1
+bitbucket,injector,1
+bitbucket,teamcity,1
+bloc,ci/cd,1
+bloc,codegen,1
+bloc,cubit,1
+bloc,dio,1
+bloc,firebase,1
+bloc,google maps api,1
+bloc,gorouter,1
+bloc,injector,1
+bloc,ios,1
+bloc,provider,1
+bloc,rest api,1
+bloc,riverpod,1
+bloc,solid,1
+bloc,teamcity,1
+bloc,web,1
+bloc,yandex maps api,1
+bloc,мобильные приложения,1
+blockchain,css,1
+blockchain,es6,1
+blockchain,git,1
+blockchain,javascript,1
+blockchain,less,1
+blockchain,mobx,1
+blockchain,react,1
+blockchain,react native,1
+blockchain,redux,1
+blockchain,rest api,1
+blockchain,scss,1
+blockchain,typescript,1
+blockchain,web3,1
+c#,dart,1
+c#,developer,1
+c#,flutter,1
+c#,frontend,1
+c#,iphone,1
+c#,java,1
+c#,javascript,1
+c#,jquery,1
+c#,json,1
+c#,kotlin,1
+c#,mvc,1
+c#,objective-c,1
+c#,react,1
+c#,react native,1
+c#,sql,1
+c#,swift,1
+c#,unity 3d,1
+c#,unity3d,1
+c#,vue,1
+c#,xcode,1
+c#,приложения,1
+c#,программирование,1
+c#,программист,1
+c#,разработка,1
+c#,разработчик,1
+c#,с#,1
+c/c++,git,1
+c/c++,ios,1
+c/c++,ios sdk,1
+c/c++,swift,1
+c/c++,английский - а1- начальный,1
+ci,fastlane,1
+ci,gitlab,1
+ci,ios,1
+ci,mvvm,1
+ci,rxswift,1
+ci,solid,1
+ci,swift,1
+ci/cd,code review,1
+ci/cd,core data,1
+ci/cd,dart,1
+ci/cd,docker,1
+ci/cd,figma,1
+ci/cd,flutter,1
+ci/cd,github,1
+ci/cd,http,1
+ci/cd,injector,1
+ci/cd,ios,1
+ci/cd,ios sdk,1
+ci/cd,jetpack compose,1
+ci/cd,jira,1
+ci/cd,mvc,1
+ci/cd,mvvm,1
+ci/cd,objective-c,1
+ci/cd,react native,1
+ci/cd,rx,1
+ci/cd,teamcity,1
+ci/cd,typescript,1
+ci/cd,unit testing,1
+ci/cd,viper,1
+ci/cd,грамотная устная и письменная речь,1
+ci/cd,ооп,1
+ci/cd,паттерны проектирования,1
+ci/cd,управление командой,1
+cicerone,git,1
+cicerone,http,1
+cicerone,jetpack components,1
+cicerone,json api,1
+cicerone,koin,1
+cicerone,kotlin coroutines,1
+cicerone,restful api,1
+cicerone,retrofit,1
+cicerone,viewbinding,1
+cl,gcd,1
+cl,git,1
+cl,ios hig,1
+cl,macos,1
+cl,objective-c,1
+cl,realm,1
+cl,scrum,1
+cl,storekit,1
+cl,swift,1
+cl,swiftui,1
+cl,ui,1
+cl,unit testing,1
+cl,ux,1
+cl,watchkit,1
+clean arch,git,1
+clean arch,kotlin,1
+clean arch,mvvm,1
+clean arch,работа в команде,1
+clean architecture,combine,1
+clean architecture,confluence,1
+clean architecture,dagger2,1
+clean architecture,di,1
+clean architecture,figma,1
+clean architecture,github,1
+clean architecture,ios toolchain,1
+clean architecture,jira,1
+clean architecture,miro,1
+clean architecture,restapi,1
+clean architecture,retrofit,1
+clean architecture,rxjava2,1
+clean architecture,snapkit,1
+clean architecture,swift,1
+clean architecture,swiftui,1
+clean architecture,websockets,1
+clean architecture,лидерские качества,1
+clean architecture,опп,1
+clean architecture,паттерны проектирования,1
+clean architecture,принятие решений,1
+clean architecture,проработка архитектуры,1
+cocoa,cocoapods,1
+cocoa,generamba,1
+cocoa,git,1
+cocoa,ios sdk,1
+cocoa,mvc,1
+cocoa,orm,1
+cocoa,protocol oriented programming,1
+cocoa,realm,1
+cocoa,rest,1
+cocoa,rxalamofire,1
+cocoa,rxswift,1
+cocoa,sql,1
+cocoa,swift,1
+cocoa,uikit,1
+cocoa,unit testing,1
+cocoa,viper,1
+cocoa,многопоточное программирование,1
+cocoapods,generamba,1
+cocoapods,ios sdk,1
+cocoapods,mvc,1
+cocoapods,objective-c,1
+cocoapods,orm,1
+cocoapods,protocol oriented programming,1
+cocoapods,realm,1
+cocoapods,rest,1
+cocoapods,rxalamofire,1
+cocoapods,rxswift,1
+cocoapods,sql,1
+cocoapods,unit testing,1
+cocoapods,viper,1
+cocoapods,xcode,1
+cocoapods,многопоточное программирование,1
+cocoapods,удаленная работа,1
+code review,core data,1
+code review,git,1
+code review,ios sdk,1
+code review,objective-c,1
+code review,realm,1
+code review,swift,1
+code review,unit testing,1
+code review,viper,1
+codegen,cubit,1
+codegen,dart,1
+codegen,dio,1
+codegen,firebase,1
+codegen,flutter,1
+codegen,google maps api,1
+codegen,gorouter,1
+codegen,ios,1
+codegen,provider,1
+codegen,rest api,1
+codegen,riverpod,1
+codegen,solid,1
+codegen,web,1
+codegen,yandex maps api,1
+codegen,мобильные приложения,1
+combine,di,1
+combine,fastlane,1
+combine,gcd,1
+combine,github,1
+combine,grdb,1
+combine,hokey app,1
+combine,http,1
+combine,ios toolchain,1
+combine,json,1
+combine,moya,1
+combine,restapi,1
+combine,snapkit,1
+combine,solid,1
+combine,swift,1
+combine,swift 5.0,1
+combine,ui-тесты,1
+combine,unit-тесты,1
+combine,webrtc,1
+combine,xcodegen,1
+combine,лидерские качества,1
+combine,ооп,1
+combine,опп,1
+combine,принятие решений,1
+combine,проработка архитектуры,1
+conductor,dagger2,1
+conductor,design patterns,1
+conductor,google play market,1
+conductor,java,1
+conductor,javascript,1
+conductor,kotlin,1
+conductor,moxy,1
+conductor,веб-программирование,1
+confluence,figma,1
+confluence,jira,1
+confluence,kotlin,1
+confluence,miro,1
+confluence,solid,1
+confluence,паттерны проектирования,1
+cordova,git,1
+cordova,java,1
+cordova,nodejs,1
+cordova,reactnative,1
+cordova,swift,1
+cordova,xcode,1
+cordova,мобильные приложения,1
+cordova,удаленная работа,1
+core animation,foundation,1
+core animation,gcd (qos),1
+core animation,git,1
+core animation,ios,1
+core animation,swift,1
+core animation,uikit,1
+core animation,ооп,1
+core data,ios,1
+core data,ios sdk,1
+core data,macos,1
+core data,objective-c,1
+core data,sqlite,1
+core data,unit testing,1
+core data,viper,1
+coredata,https,1
+coredata,ios sdk,1
+coredata,oauth,1
+coredata,restful,1
+coredata,uikit,1
+coredata,viper,1
+coredata,websocket,1
+coroutine,dagger,1
+coroutine,di,1
+coroutine,git,1
+coroutine,gson,1
+coroutine,mvvm,1
+coroutine,okhttp/rertofit,1
+coroutine,rxjava,1
+coroutine,solid,1
+coroutine,solid works,1
+coroutine,websockets,1
+coroutine,yandex mapkit,1
+coroutines,dagger2,1
+coroutines,databinding,1
+coroutines,flows,1
+coroutines,material desing,1
+coroutines,mockito,1
+coroutines,navigation components,1
+coroutines,reactivex,1
+coroutines,rxjava,1
+coroutines,solid,1
+coroutines,sqlite,1
+crashlytics,firebase,1
+crashlytics,git,1
+crashlytics,http,1
+crashlytics,ios,1
+crashlytics,json,1
+crashlytics,mac os,1
+crashlytics,realm,1
+crashlytics,rest api,1
+crashlytics,sdk,1
+crashlytics,svn,1
+crashlytics,swift,1
+crashlytics,ui,1
+crashlytics,ui анимация,1
+crashlytics,ui/ux,1
+crashlytics,viper,1
+crashlytics,xcode,1
+crashlytics,постановка задач разработчикам,1
+css,dart,1
+css,docker,1
+css,es6,1
+css,java script,1
+css,less,1
+css,mobx,1
+css,rest,1
+css,scrum,1
+css,scss,1
+css,web3,1
+css,разработка мобильного приложения,1
+css,удаленная работа,1
+cubit,dart,1
+cubit,dio,1
+cubit,firebase,1
+cubit,flutter,1
+cubit,google maps api,1
+cubit,gorouter,1
+cubit,ios,1
+cubit,provider,1
+cubit,rest api,1
+cubit,riverpod,1
+cubit,solid,1
+cubit,web,1
+cubit,yandex maps api,1
+cubit,мобильные приложения,1
+dagger,gson,1
+dagger,mvvm,1
+dagger,okhttp/rertofit,1
+dagger,restful api,1
+dagger,retrofit,1
+dagger,room service,1
+dagger,solid works,1
+dagger,sqlite,1
+dagger,websockets,1
+dagger,yandex mapkit,1
+dagger 2,kotlin,1
+dagger 2,mvp,1
+dagger 2,mvvm,1
+dagger2,design patterns,1
+dagger2,google play market,1
+dagger2,java,1
+dagger2,javascript,1
+dagger2,moxy,1
+dagger2,mvvm,1
+dagger2,retrofit,1
+dagger2,rxjava2,1
+dagger2,sqlite,1
+dagger2,websockets,1
+dagger2,веб-программирование,1
+dagger2,лидерские качества,1
+dagger2,принятие решений,1
+dagger2,проработка архитектуры,1
+dart,developer,1
+dart,dio,1
+dart,figma,1
+dart,frontend,1
+dart,github,1
+dart,google maps api,1
+dart,gorouter,1
+dart,html,1
+dart,injector,1
+dart,iphone,1
+dart,jquery,1
+dart,json,1
+dart,linux,1
+dart,node.js,1
+dart,objective-c,1
+dart,provider,1
+dart,react,1
+dart,react native,1
+dart,riverpod,1
+dart,saas,1
+dart,teamcity,1
+dart,ui,1
+dart,vue,1
+dart,web,1
+dart,xcode,1
+dart,yandex maps api,1
+dart,английский язык,1
+dart,готовность обучаться,1
+dart,дружелюбие,1
+dart,дружелюбность,1
+dart,желание обучаться,1
+dart,желание учиться и развиваться,1
+dart,заинтересованность,1
+dart,критически мыслить,1
+dart,обучаемость,1
+dart,обучение и развитие,1
+dart,основы программирования,1
+dart,ответственность и пунктуальность,1
+dart,планирование карьеры,1
+dart,приложения,1
+dart,программирование,1
+dart,программист,1
+dart,работа с большим пулом запросов,1
+dart,разработка,1
+dart,разработчик,1
+dart,терпение,1
+dart,умение проявлять внимание,1
+dart,умение работать в коллективе,1
+databinding,kotlin,1
+databinding,mvvm,1
+databinding,navigation components,1
+databinding,retrofit,1
+databinding,rxjava,1
+databinding,solid,1
+design patterns,git,1
+design patterns,google play market,1
+design patterns,http,1
+design patterns,ios,1
+design patterns,java core,1
+design patterns,javascript,1
+design patterns,moxy,1
+design patterns,scrum,1
+design patterns,sqlite,1
+design patterns,xml,1
+design patterns,английский язык,1
+design patterns,веб-программирование,1
+design patterns,ооп,1
+design patterns,оптимизация кода,1
+developer,flutter,1
+developer,frontend,1
+developer,git,1
+developer,ios,1
+developer,iphone,1
+developer,java,1
+developer,javascript,1
+developer,jquery,1
+developer,kotlin,1
+developer,mvc,1
+developer,objective-c,1
+developer,react,1
+developer,react native,1
+developer,swift,1
+developer,vue,1
+developer,xcode,1
+developer,мобильные приложения,1
+developer,ооп,1
+developer,приложения,1
+developer,программирование,1
+developer,программист,1
+developer,разработка,1
+developer,разработчик,1
+di,github,1
+di,ios toolchain,1
+di,java,1
+di,kotlin,1
+di,restapi,1
+di,rxjava,1
+di,swiftui,1
+di,ооп,1
+di,опп,1
+dio,firebase,1
+dio,flutter,1
+dio,google maps api,1
+dio,gorouter,1
+dio,ios,1
+dio,provider,1
+dio,rest api,1
+dio,riverpod,1
+dio,solid,1
+dio,web,1
+dio,yandex maps api,1
+dio,мобильные приложения,1
+docker,gitlab,1
+docker,html,1
+docker,jira,1
+docker,react,1
+docker,react native,1
+docker,realm,1
+docker,redux,1
+docker,rest,1
+docker,scrum,1
+docker,swift,1
+docker,viper,1
+docker,грамотная устная и письменная речь,1
+docker,ооп,1
+docker,паттерны проектирования,1
+dry,git,1
+dry,gitlab,1
+dry,http,1
+dry,kiss,1
+dry,kotlin,1
+dry,rest,1
+dry,solid,1
+dry,swift,1
+es5,es6,1
+es5,git,1
+es5,javascript,1
+es5,next.js,1
+es5,react native,1
+es5,react.js,1
+es5,scrum,1
+es5,ssr,1
+es6,less,1
+es6,mobx,1
+es6,next.js,1
+es6,react,1
+es6,react.js,1
+es6,redux,1
+es6,rest api,1
+es6,scrum,1
+es6,scss,1
+es6,ssr,1
+es6,typescript,1
+es6,web3,1
+express,html,1
+express,node.js,1
+express,postgresql,1
+express,react,1
+express,react native,1
+fastlane,git,1
+fastlane,gitlab,1
+fastlane,hokey app,1
+fastlane,ios,1
+fastlane,moya,1
+fastlane,mvvm,1
+fastlane,rxswift,1
+fastlane,snapkit,1
+fastlane,solid,1
+fastlane,swift,1
+fastlane,swift 5.0,1
+fastlane,ui-тесты,1
+fastlane,unit-тесты,1
+fastlane,лидерские качества,1
+fastlane,принятие решений,1
+fastlane,проработка архитектуры,1
+figma,firebase,1
+figma,github,1
+figma,gitlab,1
+figma,intellij idea,1
+figma,ios,1
+figma,java,1
+figma,java se,1
+figma,jetpack compose,1
+figma,jira,1
+figma,miro,1
+figma,mvc,1
+figma,mvp,1
+figma,realm,1
+figma,rest api,1
+figma,rx,1
+figma,solid,1
+figma,swift,1
+figma,zoom,1
+figma,амбициозность,1
+figma,готовность к стрессовым ситуациям,1
+figma,грамотная устная и письменная речь,1
+figma,мобильные приложения,1
+figma,ооп,1
+figma,ответственность,1
+figma,паттерны проектирования,1
+figma,программист класса junior - middle,1
+figma,продвинутый пользователь пк,1
+figma,работа в много-задачном режиме,1
+figma,разработка технических заданий,1
+figma,эффективное принятие решений,1
+firebase,google maps api,1
+firebase,gorouter,1
+firebase,gradle,1
+firebase,http,1
+firebase,json,1
+firebase,koin,1
+firebase,kotline,1
+firebase,mac os,1
+firebase,provider,1
+firebase,realm,1
+firebase,riverpod,1
+firebase,sdk,1
+firebase,solid,1
+firebase,svn,1
+firebase,ui,1
+firebase,ui анимация,1
+firebase,ui/ux,1
+firebase,uikit,1
+firebase,viper,1
+firebase,web,1
+firebase,xcode,1
+firebase,yandex maps api,1
+firebase,мобильные приложения,1
+firebase,ооп,1
+firebase,постановка задач разработчикам,1
+flows,kotlin,1
+flows,mvvm,1
+flutter,frontend,1
+flutter,github,1
+flutter,google maps api,1
+flutter,gorouter,1
+flutter,injector,1
+flutter,iphone,1
+flutter,javascript,1
+flutter,jquery,1
+flutter,json,1
+flutter,linux,1
+flutter,node.js,1
+flutter,provider,1
+flutter,react,1
+flutter,rest,1
+flutter,riverpod,1
+flutter,saas,1
+flutter,teamcity,1
+flutter,ui,1
+flutter,vue,1
+flutter,web,1
+flutter,xcode,1
+flutter,yandex maps api,1
+flutter,английский язык,1
+flutter,готовность обучаться,1
+flutter,дружелюбие,1
+flutter,дружелюбность,1
+flutter,желание обучаться,1
+flutter,желание учиться и развиваться,1
+flutter,заинтересованность,1
+flutter,критически мыслить,1
+flutter,обучаемость,1
+flutter,обучение и развитие,1
+flutter,опыт работы в команде,1
+flutter,основы программирования,1
+flutter,ответственность и пунктуальность,1
+flutter,планирование карьеры,1
+flutter,позитивное мышление,1
+flutter,приложения,1
+flutter,программирование,1
+flutter,программист,1
+flutter,работа с большим пулом запросов,1
+flutter,разработка,1
+flutter,разработчик,1
+flutter,самостоятельная работа,1
+flutter,терпение,1
+flutter,умение проявлять внимание,1
+flutter,умение работать в коллективе,1
+flutter dart,java,1
+flutter dart,kotlin,1
+foundation,gcd (qos),1
+foundation,restful api,1
+foundation,xcode,1
+frontend,ios,1
+frontend,iphone,1
+frontend,java,1
+frontend,jquery,1
+frontend,kotlin,1
+frontend,mvc,1
+frontend,objective-c,1
+frontend,react native,1
+frontend,rest,1
+frontend,saas,1
+frontend,swift,1
+frontend,vue,1
+frontend,xcode,1
+frontend,английский язык,1
+frontend,мобильные приложения,1
+frontend,приложения,1
+frontend,программирование,1
+frontend,программист,1
+frontend,разработка,1
+frontend,разработчик,1
+game programming,ios,1
+game programming,java,1
+gamedev,ios,1
+gamedev,java,1
+gcd,grdb,1
+gcd,http,1
+gcd,ios,1
+gcd,ios hig,1
+gcd,json,1
+gcd,macos,1
+gcd,mvc,1
+gcd,mvvm,1
+gcd,objective-c,1
+gcd,realm,1
+gcd,scrum,1
+gcd,storekit,1
+gcd,swift,1
+gcd,ui,1
+gcd,uikit,1
+gcd,unit testing,1
+gcd,ux,1
+gcd,watchkit,1
+gcd,webrtc,1
+gcd,xcodegen,1
+gcd (qos),git,1
+gcd (qos),ios,1
+gcd (qos),swift,1
+gcd (qos),uikit,1
+gcd (qos),ооп,1
+generamba,git,1
+generamba,ios sdk,1
+generamba,mvc,1
+generamba,orm,1
+generamba,protocol oriented programming,1
+generamba,realm,1
+generamba,rest,1
+generamba,rxalamofire,1
+generamba,rxswift,1
+generamba,sql,1
+generamba,swift,1
+generamba,uikit,1
+generamba,unit testing,1
+generamba,viper,1
+generamba,многопоточное программирование,1
+git,github,1
+git,google maps api,1
+git,grdb,1
+git,gson,1
+git,hokey app,1
+git,https,1
+git,intellij idea,1
+git,ios hig,1
+git,iphone,1
+git,java script,1
+git,java se,1
+git,jetpack components,1
+git,jira,1
+git,jquery,1
+git,kiss,1
+git,koin,1
+git,kotlin coroutines,1
+git,less,1
+git,linux,1
+git,mercurial,1
+git,mobx,1
+git,moya,1
+git,ms visual studio,1
+git,next.js,1
+git,node.js,1
+git,nodejs,1
+git,oauth,1
+git,okhttp/rertofit,1
+git,orm,1
+git,protocol oriented programming,1
+git,react.js,1
+git,reactnative,1
+git,restful,1
+git,room,1
+git,room service,1
+git,rxalamofire,1
+git,rxjava,1
+git,scss,1
+git,sdk,1
+git,snapkit,1
+git,solid works,1
+git,ssr,1
+git,storekit,1
+git,swift 5.0,1
+git,swift ui,1
+git,ui анимация,1
+git,ui-тесты,1
+git,ui/ux,1
+git,unit-тесты,1
+git,ux,1
+git,viewbinding,1
+git,vue,1
+git,watchkit,1
+git,web3,1
+git,webrtc,1
+git,websocket,1
+git,websockets,1
+git,webview,1
+git,xcodegen,1
+git,xml,1
+git,yandex mapkit,1
+git,yandex maps api,1
+git,алгоритмы и структуры данных,1
+git,английский - а1- начальный,1
+git,асинхронное программирование,1
+git,быстрое обучение,1
+git,высокие коммуникативные навыки,1
+git,грамотная устная и письменная речь,1
+git,желание работать и развиваться,1
+git,желание расти и развиваться,1
+git,желание учиться и развиваться,1
+git,знание ms office,1
+git,информационные технологии,1
+git,командная работа,1
+git,лидерские качества,1
+git,линейное программирование,1
+git,многопоточное программирование,1
+git,обучаемость,1
+git,оптимизация кода,1
+git,опытный пользовать пк,1
+git,ответственность,1
+git,постановка задач разработчикам,1
+git,приложения,1
+git,принятие решений,1
+git,программист,1
+git,проработка архитектуры,1
+git,разносторонность,1
+git,разработка,1
+git,разработка мобильного приложения,1
+git,разработчик,1
+git,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+git,стремление к профессиональному росту,1
+git,умение анализировать,1
+git,умение быстро усваивать новую информацию,1
+git,эффективное принятие решений,1
+git,эффективное решение проблем,1
+git ci/cd,java/kotlin,1
+git ci/cd,restfull,1
+git ci/cd,webkit,1
+git ci/cd,websocket,1
+git ci/cd,нативная сборка мобильных приложений,1
+github,http,1
+github,ios toolchain,1
+github,restapi,1
+github,solid,1
+github,swiftui,1
+github,мобильные приложения,1
+github,опп,1
+gitlab,http,1
+gitlab,ios,1
+gitlab,jetpack compose,1
+gitlab,jira,1
+gitlab,kiss,1
+gitlab,mvc,1
+gitlab,react native,1
+gitlab,realm,1
+gitlab,rest,1
+gitlab,rx,1
+gitlab,rxswift,1
+gitlab,typescript,1
+gitlab,грамотная устная и письменная речь,1
+gitlab,ооп,1
+gitlab,паттерны проектирования,1
+google api,оптимизация кода,1
+google maps api,gorouter,1
+google maps api,java,1
+google maps api,kotlin,1
+google maps api,mvvm,1
+google maps api,provider,1
+google maps api,rest api,1
+google maps api,riverpod,1
+google maps api,solid,1
+google maps api,swift,1
+google maps api,web,1
+google maps api,xcode,1
+google maps api,асинхронное программирование,1
+google maps api,желание работать и развиваться,1
+google maps api,командная работа,1
+google maps api,мобильные приложения,1
+google maps api,оптимизация кода,1
+google maps api,работа в условиях многозадачности,1
+google maps api,стремление к профессиональному росту,1
+google maps api,умение работать в условиях многозадачности,1
+google play market,java,1
+google play market,javascript,1
+google play market,kotlin,1
+google play market,moxy,1
+google play market,веб-программирование,1
+gorouter,ios,1
+gorouter,provider,1
+gorouter,rest api,1
+gorouter,riverpod,1
+gorouter,solid,1
+gorouter,web,1
+gorouter,yandex maps api,1
+gorouter,мобильные приложения,1
+gradle,http,1
+gradle,iot,1
+gradle,json,1
+gradle,koin,1
+gradle,linux,1
+gradle,mvp,1
+gradle,mvvm,1
+gradle,желание учиться и развиваться,1
+gradle,знание английского языка,1
+gradle,работа в команде,1
+grdb,http,1
+grdb,ios,1
+grdb,json,1
+grdb,swiftui,1
+grdb,webrtc,1
+grdb,xcodegen,1
+grpc,mvvm,1
+grpc,swift,1
+grpc,английский язык,1
+grpc,ооп,1
+gson,java,1
+gson,kotlin,1
+gson,mvvm,1
+gson,okhttp/rertofit,1
+gson,solid works,1
+gson,websockets,1
+gson,yandex mapkit,1
+gson,ооп,1
+hig,ios,1
+hig,ios sdk,1
+hig,swift,1
+hig,uikit,1
+hokey app,moya,1
+hokey app,snapkit,1
+hokey app,swift 5.0,1
+hokey app,ui-тесты,1
+hokey app,unit-тесты,1
+hokey app,лидерские качества,1
+hokey app,принятие решений,1
+hokey app,проработка архитектуры,1
+hr,английский язык,1
+hr,английский язык (upper-intermediate),1
+hr,деловая коммуникация,1
+hr,поиск персонала в открытых источниках,1
+hr,работа в команде,1
+html,java script,1
+html,node.js,1
+html,postgresql,1
+html,redux,1
+html,rest,1
+html,rest api,1
+html,scrum,1
+html,разработка мобильного приложения,1
+html,удаленная работа,1
+html/css,javascript,1
+html/css,react native,1
+html/css,react/redux,1
+html/css,typescript,1
+http,https,1
+http,ios sdk,1
+http,iot,1
+http,java core,1
+http,jetpack components,1
+http,kiss,1
+http,koin,1
+http,kotlin coroutines,1
+http,mac os,1
+http,mvp,1
+http,mvvm,1
+http,oauth,1
+http,restful,1
+http,restful api,1
+http,retrofit,1
+http,sdk,1
+http,tcp,1
+http,ui анимация,1
+http,ui/ux,1
+http,viewbinding,1
+http,webrtc,1
+http,xcodegen,1
+http,английский язык,1
+http,желание учиться и развиваться,1
+http,знание английского языка,1
+http,линейное программирование,1
+http,оптимизация кода,1
+http,постановка задач разработчикам,1
+http,работа в команде,1
+https,ios,1
+https,oauth,1
+https,objective-c,1
+https,realm,1
+https,restful,1
+https,sqlite,1
+https,swift,1
+https,viper,1
+https,websocket,1
+https,xcode,1
+injector,teamcity,1
+intellij idea,java se,1
+intellij idea,kotlin,1
+ios,ipad,1
+ios,javascript,1
+ios,jira,1
+ios,jquery,1
+ios,macos monterey,1
+ios,ms sql,1
+ios,oauth,1
+ios,people management,1
+ios,provider,1
+ios,python,1
+ios,qt,1
+ios,react,1
+ios,realitykit,1
+ios,restful,1
+ios,restful api,1
+ios,riverpod,1
+ios,scenekit,1
+ios,sdk,1
+ios,sql,1
+ios,svn,1
+ios,swift alliance,1
+ios,tcp,1
+ios,trello,1
+ios,ui анимация,1
+ios,ui/ux,1
+ios,unit testing,1
+ios,unity3d,1
+ios,vue,1
+ios,web,1
+ios,webrtc,1
+ios,xcodegen,1
+ios,австралийское время,1
+ios,анализ конкурентной среды,1
+ios,английский - а1- начальный,1
+ios,асинхронное программирование,1
+ios,высокие коммуникативные навыки,1
+ios,деловая коммуникация,1
+ios,договорная работа,1
+ios,дружелюбие,1
+ios,дружелюбность,1
+ios,желание работать и развиваться,1
+ios,желание расти и развиваться,1
+ios,желание учиться и развиваться,1
+ios,заинтересованность,1
+ios,знание английского языка,1
+ios,информационные технологии,1
+ios,командная работа,1
+ios,коммуникабельность,1
+ios,мобильная разработка,1
+ios,обучение,1
+ios,обучение и развитие,1
+ios,ответственность,1
+ios,ответственность и пунктуальность,1
+ios,паттерны проектирования,1
+ios,планирование карьеры,1
+ios,поиск информации в интернет,1
+ios,постановка задач разработчикам,1
+ios,приложения,1
+ios,принципы проектирования,1
+ios,проведение тестирований,1
+ios,программирование,1
+ios,программист,1
+ios,работа в условиях многозадачности,1
+ios,работа с большим пулом запросов,1
+ios,разговорный английский,1
+ios,разработка,1
+ios,разработка продукта,1
+ios,разработка технических заданий,1
+ios,разработчик,1
+ios,с#,1
+ios,свободное владение английским языком,1
+ios,составление тз,1
+ios,социальные сети,1
+ios,стремление к профессиональному росту,1
+ios,умение организовать работу,1
+ios,умение проявлять внимание,1
+ios,умение работать в коллективе,1
+ios,управление командой,1
+ios,управление проектами,1
+ios,хорошая память,1
+ios hig,macos,1
+ios hig,objective-c,1
+ios hig,realm,1
+ios hig,scrum,1
+ios hig,storekit,1
+ios hig,swift,1
+ios hig,swiftui,1
+ios hig,ui,1
+ios hig,unit testing,1
+ios hig,ux,1
+ios hig,watchkit,1
+ios sdk,json,1
+ios sdk,mvc,1
+ios sdk,orm,1
+ios sdk,protocol oriented programming,1
+ios sdk,rest,1
+ios sdk,rest api,1
+ios sdk,rxalamofire,1
+ios sdk,rxswift,1
+ios sdk,solid,1
+ios sdk,sql,1
+ios sdk,английский - а1- начальный,1
+ios sdk,многопоточное программирование,1
+ios toolchain,restapi,1
+ios toolchain,solid,1
+ios toolchain,swiftui,1
+ios toolchain,опп,1
+ios-разработчик,swift,1
+ios-разработчик,удаленная работа,1
+iot,java,1
+iot,json,1
+iot,kotlin,1
+iot,linux,1
+iot,mvp,1
+iot,mvvm,1
+iot,желание учиться и развиваться,1
+iot,знание английского языка,1
+iot,ооп,1
+iot,работа в команде,1
+ipad,iphone,1
+ipad,objective-c,1
+ipad,swift,1
+ipad,swift alliance,1
+iphone,java,1
+iphone,javascript,1
+iphone,jquery,1
+iphone,kotlin,1
+iphone,mvc,1
+iphone,react,1
+iphone,react native,1
+iphone,swift alliance,1
+iphone,vue,1
+iphone,xcode,1
+iphone,мобильные приложения,1
+iphone,ооп,1
+iphone,приложения,1
+iphone,программирование,1
+iphone,программист,1
+iphone,разработка,1
+iphone,разработчик,1
+java,java core,1
+java,jquery,1
+java,json api,1
+java,koin,1
+java,kotline,1
+java,libgdx,1
+java,moxy,1
+java,ms visual studio,1
+java,ndk,1
+java,nodejs,1
+java,objective-c,1
+java,okhttp/rertofit,1
+java,react,1
+java,react native,1
+java,reactnative,1
+java,rest,1
+java,restful api,1
+java,room service,1
+java,rx,1
+java,solid,1
+java,solid works,1
+java,system каталог android,1
+java,vue,1
+java,websockets,1
+java,yandex mapkit,1
+java,yandex maps api,1
+java,алгоритмы и структуры данных,1
+java,асинхронное программирование,1
+java,быстрое обучение,1
+java,веб-программирование,1
+java,желание работать и развиваться,1
+java,желание учиться и развиваться,1
+java,знание ms office,1
+java,знание английского языка,1
+java,командная работа,1
+java,линейное программирование,1
+java,мобильность,1
+java,опыт работы в команде,1
+java,опытный пользовать пк,1
+java,ответственность,1
+java,паттерны проектирования,1
+java,приложения,1
+java,программирование,1
+java,программист,1
+java,работа в команде,1
+java,разносторонность,1
+java,разработка,1
+java,разработка компьютерных игр,1
+java,разработка мобильных приложений,1
+java,разработчик,1
+java,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+java,стремление к профессиональному росту,1
+java,умение анализировать,1
+java,умение быстро усваивать новую информацию,1
+java,эффективное принятие решений,1
+java,эффективное решение проблем,1
+java core,kotlin,1
+java core,sqlite,1
+java core,xml,1
+java core,английский язык,1
+java core,ооп,1
+java core,оптимизация кода,1
+java script,react native,1
+java script,rest api,1
+java script,typescript,1
+java script,разработка мобильного приложения,1
+java script,удаленная работа,1
+java se,kotlin,1
+java/kotlin,restfull,1
+java/kotlin,webkit,1
+java/kotlin,websocket,1
+java/kotlin,нативная сборка мобильных приложений,1
+javascript,jquery,1
+javascript,less,1
+javascript,mobx,1
+javascript,moxy,1
+javascript,mvc,1
+javascript,next.js,1
+javascript,node.js,1
+javascript,objective-c,1
+javascript,react/redux,1
+javascript,realm,1
+javascript,rest api,1
+javascript,saas,1
+javascript,scss,1
+javascript,ssr,1
+javascript,viper,1
+javascript,vue,1
+javascript,web3,1
+javascript,xcode,1
+javascript,английский язык,1
+javascript,веб-программирование,1
+javascript,мобильные приложения,1
+javascript,приложения,1
+javascript,программирование,1
+javascript,программист,1
+javascript,разработка,1
+javascript,разработчик,1
+jetpack components,json api,1
+jetpack components,koin,1
+jetpack components,kotlin coroutines,1
+jetpack components,restful api,1
+jetpack components,retrofit,1
+jetpack components,viewbinding,1
+jetpack compose,mvc,1
+jetpack compose,mvvm,1
+jetpack compose,realm,1
+jetpack compose,rx,1
+jira,kotlin,1
+jira,miro,1
+jira,react native,1
+jira,solid,1
+jira,trello,1
+jira,typescript,1
+jira,английский язык,1
+jira,грамотная устная и письменная речь,1
+jira,деловая коммуникация,1
+jira,мобильная разработка,1
+jira,ооп,1
+jira,работа в команде,1
+jira,управление проектами,1
+jquery,kotlin,1
+jquery,mvc,1
+jquery,objective-c,1
+jquery,react,1
+jquery,react native,1
+jquery,swift,1
+jquery,vue,1
+jquery,xcode,1
+jquery,мобильные приложения,1
+jquery,ооп,1
+jquery,приложения,1
+jquery,программирование,1
+jquery,программист,1
+jquery,разработка,1
+jquery,разработчик,1
+json,kanban,1
+json,mvc,1
+json,mvp,1
+json,mvvm,1
+json,sdk,1
+json,solid,1
+json,sql,1
+json,swiftui,1
+json,ui,1
+json,ui анимация,1
+json,ui/ux,1
+json,unity,1
+json,viper,1
+json,webrtc,1
+json,xcodegen,1
+json,желание учиться и развиваться,1
+json,знание английского языка,1
+json,постановка задач разработчикам,1
+json,работа в команде,1
+json,удаленная работа,1
+json api,koin,1
+json api,kotlin coroutines,1
+json api,linux,1
+json api,objective-c,1
+json api,rest,1
+json api,rest api,1
+json api,restful api,1
+json api,retrofit,1
+json api,svn,1
+json api,swift,1
+json api,viewbinding,1
+json api,xcode,1
+json api,xml,1
+json api,мобильные приложения,1
+json api,ооп,1
+json api,умение работать в условиях многозадачности,1
+kanban,mac os,1
+kiss,kotlin,1
+kiss,rest,1
+kiss,solid,1
+kiss,swift,1
+koin,kotlin,1
+koin,kotlin coroutines,1
+koin,restful api,1
+koin,retrofit,1
+koin,viewbinding,1
+koin,ооп,1
+kotlin,linux,1
+kotlin,material desing,1
+kotlin,miro,1
+kotlin,mockito,1
+kotlin,moxy,1
+kotlin,ms visual studio,1
+kotlin,navigation components,1
+kotlin,objective-c,1
+kotlin,okhttp/rertofit,1
+kotlin,react,1
+kotlin,react native,1
+kotlin,reactivex,1
+kotlin,realm,1
+kotlin,rest api,1
+kotlin,restful api,1
+kotlin,room,1
+kotlin,room service,1
+kotlin,rxjava2,1
+kotlin,solid works,1
+kotlin,unit testing,1
+kotlin,vue,1
+kotlin,yandex mapkit,1
+kotlin,yandex maps api,1
+kotlin,zoom,1
+kotlin,алгоритмы и структуры данных,1
+kotlin,амбициозность,1
+kotlin,аналитическое мышление,1
+kotlin,асинхронное программирование,1
+kotlin,веб-программирование,1
+kotlin,готовность к стрессовым ситуациям,1
+kotlin,грамотная речь,1
+kotlin,грамотная устная и письменная речь,1
+kotlin,желание работать и развиваться,1
+kotlin,желание учиться и развиваться,1
+kotlin,знание английского языка,1
+kotlin,командная работа,1
+kotlin,лидерские качества,1
+kotlin,линейное программирование,1
+kotlin,опыт работы в команде,1
+kotlin,паттерны проектирования,1
+kotlin,приложения,1
+kotlin,принятие решений,1
+kotlin,программист,1
+kotlin,программист класса junior - middle,1
+kotlin,продвинутый пользователь пк,1
+kotlin,проработка архитектуры,1
+kotlin,работа в много-задачном режиме,1
+kotlin,работа в условиях многозадачности,1
+kotlin,разносторонность,1
+kotlin,разработка,1
+kotlin,разработка мобильных приложений,1
+kotlin,разработка технических заданий,1
+kotlin,разработчик,1
+kotlin,стремление к профессиональному росту,1
+kotlin,умение работать в коллективе,1
+kotlin,умение работать в условиях многозадачности,1
+kotlin,эффективное принятие решений,1
+kotlin coroutines,restful api,1
+kotlin coroutines,retrofit,1
+kotlin coroutines,viewbinding,1
+less,mobx,1
+less,react,1
+less,react native,1
+less,redux,1
+less,rest api,1
+less,scss,1
+less,typescript,1
+less,web3,1
+libgdx,разработка компьютерных игр,1
+linux,mvp,1
+linux,mvvm,1
+linux,mysql,1
+linux,ndk,1
+linux,rest,1
+linux,sqlite,1
+linux,svn,1
+linux,system каталог android,1
+linux,xml,1
+linux,желание учиться и развиваться,1
+linux,знание английского языка,1
+linux,мобильность,1
+linux,ооп,1
+linux,работа в команде,1
+mac os,macos,1
+mac os,macos monterey,1
+mac os,python,1
+mac os,qt,1
+mac os,realm,1
+mac os,rest api,1
+mac os,sdk,1
+mac os,svn,1
+mac os,swift,1
+mac os,ui,1
+mac os,ui анимация,1
+mac os,ui/ux,1
+mac os,viper,1
+mac os,австралийское время,1
+mac os,английский язык,1
+mac os,постановка задач разработчикам,1
+mac os,разговорный английский,1
+mac os,свободное владение английским языком,1
+mac os,удаленная работа,1
+macos,macos monterey,1
+macos,objective-c,1
+macos,python,1
+macos,qt,1
+macos,scrum,1
+macos,sqlite,1
+macos,storekit,1
+macos,swiftui,1
+macos,ui,1
+macos,unit testing,1
+macos,ux,1
+macos,watchkit,1
+macos,xcode,1
+macos,австралийское время,1
+macos,английский язык,1
+macos,креативность,1
+macos,поиск информации в интернет,1
+macos,разговорный английский,1
+macos,свободное владение английским языком,1
+macos,удаленная работа,1
+macos,хорошая память,1
+macos monterey,python,1
+macos monterey,qt,1
+macos monterey,xcode,1
+macos monterey,австралийское время,1
+macos monterey,английский язык,1
+macos monterey,разговорный английский,1
+macos monterey,свободное владение английским языком,1
+macos monterey,удаленная работа,1
+material desing,mockito,1
+material desing,reactivex,1
+material desing,retrofit,1
+miro,solid,1
+miro,паттерны проектирования,1
+mobx,react,1
+mobx,react native,1
+mobx,redux,1
+mobx,rest api,1
+mobx,scss,1
+mobx,typescript,1
+mobx,web3,1
+mockito,reactivex,1
+mockito,retrofit,1
+moxy,веб-программирование,1
+moya,snapkit,1
+moya,swift 5.0,1
+moya,ui-тесты,1
+moya,unit-тесты,1
+moya,лидерские качества,1
+moya,принятие решений,1
+moya,проработка архитектуры,1
+ms project,solidworks,1
+ms project,ескд,1
+ms project,конструирование,1
+ms project,проектно-конструкторская деятельность,1
+ms sql,английский язык,1
+ms sql,ооп,1
+ms sql server,администрирование серверов windows,1
+ms visual studio,rxjava,1
+mvc,mvp,1
+mvc,orm,1
+mvc,protocol oriented programming,1
+mvc,react,1
+mvc,react native,1
+mvc,rest,1
+mvc,rx,1
+mvc,rxalamofire,1
+mvc,rxswift,1
+mvc,scrum,1
+mvc,sql,1
+mvc,swiftui,1
+mvc,unit testing,1
+mvc,viper,1
+mvc,vue,1
+mvc,многопоточное программирование,1
+mvc,приложения,1
+mvc,программирование,1
+mvc,программист,1
+mvc,разработка,1
+mvc,разработчик,1
+mvc,удаленная работа,1
+mvp,rest,1
+mvp,rest api,1
+mvp,room,1
+mvp,swiftui,1
+mvp,uikit,1
+mvp,unit testing,1
+mvp,xcode,1
+mvp,английский язык,1
+mvp,желание учиться и развиваться,1
+mvp,знание английского языка,1
+mvp,работа в команде,1
+mvvm,navigation components,1
+mvvm,okhttp/rertofit,1
+mvvm,oop,1
+mvvm,realm,1
+mvvm,rest,1
+mvvm,rest api,1
+mvvm,retrofit,1
+mvvm,room,1
+mvvm,rx,1
+mvvm,rxjava,1
+mvvm,rxswift,1
+mvvm,solid works,1
+mvvm,sqlite,1
+mvvm,swiftui,1
+mvvm,unit testing,1
+mvvm,websockets,1
+mvvm,yandex mapkit,1
+mvvm,yandex maps api,1
+mvvm,асинхронное программирование,1
+mvvm,желание работать и развиваться,1
+mvvm,желание учиться и развиваться,1
+mvvm,знание английского языка,1
+mvvm,командная работа,1
+mvvm,оптимизация кода,1
+mvvm,работа в условиях многозадачности,1
+mvvm,стремление к профессиональному росту,1
+mvvm,умение работать в условиях многозадачности,1
+navigation components,retrofit,1
+navigation components,rxjava,1
+navigation components,solid,1
+ndk,system каталог android,1
+ndk,мобильность,1
+next.js,react native,1
+next.js,react.js,1
+next.js,scrum,1
+next.js,ssr,1
+node.js,postgresql,1
+node.js,react.js,1
+nodejs,reactnative,1
+nodejs,swift,1
+nodejs,xcode,1
+nodejs,мобильные приложения,1
+nodejs,удаленная работа,1
+oauth,objective-c,1
+oauth,realm,1
+oauth,restful,1
+oauth,sqlite,1
+oauth,swift,1
+oauth,viper,1
+oauth,websocket,1
+oauth,xcode,1
+objective-c,react,1
+objective-c,react native,1
+objective-c,rest api,1
+objective-c,restful,1
+objective-c,scrum,1
+objective-c,solid,1
+objective-c,storekit,1
+objective-c,swift alliance,1
+objective-c,swiftui,1
+objective-c,ui,1
+objective-c,uikit,1
+objective-c,ux,1
+objective-c,vue,1
+objective-c,watchkit,1
+objective-c,websocket,1
+objective-c,английский язык,1
+objective-c,приложения,1
+objective-c,программирование,1
+objective-c,программист,1
+objective-c,разработка,1
+objective-c,разработчик,1
+okhttp/rertofit,solid works,1
+okhttp/rertofit,websockets,1
+okhttp/rertofit,yandex mapkit,1
+okhttp/rertofit,ооп,1
+oop,swift,1
+oop,xcode,1
+orm,protocol oriented programming,1
+orm,realm,1
+orm,rest,1
+orm,rxalamofire,1
+orm,rxswift,1
+orm,sql,1
+orm,swift,1
+orm,uikit,1
+orm,unit testing,1
+orm,viper,1
+orm,многопоточное программирование,1
+people management,rest,1
+people management,swift,1
+people management,умение организовать работу,1
+postgresql,react,1
+postgresql,react native,1
+protocol oriented programming,realm,1
+protocol oriented programming,rest,1
+protocol oriented programming,rxalamofire,1
+protocol oriented programming,rxswift,1
+protocol oriented programming,sql,1
+protocol oriented programming,swift,1
+protocol oriented programming,uikit,1
+protocol oriented programming,unit testing,1
+protocol oriented programming,viper,1
+protocol oriented programming,многопоточное программирование,1
+provider,rest api,1
+provider,riverpod,1
+provider,solid,1
+provider,web,1
+provider,yandex maps api,1
+provider,мобильные приложения,1
+pvt,гдм,1
+pvt,гидродинамическое моделирование,1
+python,qt,1
+python,xcode,1
+python,австралийское время,1
+python,английский язык,1
+python,разговорный английский,1
+python,свободное владение английским языком,1
+python,удаленная работа,1
+qt,xcode,1
+qt,австралийское время,1
+qt,английский язык,1
+qt,разговорный английский,1
+qt,свободное владение английским языком,1
+qt,удаленная работа,1
+react,react.js,1
+react,rest | ws,1
+react,saas,1
+react,scrum,1
+react,scss,1
+react,swift,1
+react,vue,1
+react,web3,1
+react,xcode,1
+react,английский язык,1
+react,мобильные приложения,1
+react,приложения,1
+react,программирование,1
+react,программист,1
+react,разработка,1
+react,разработчик,1
+react native,react/redux,1
+react native,redux,1
+react native,rest | ws,1
+react native,scrum,1
+react native,scss,1
+react native,ssr,1
+react native,swift,1
+react native,vue,1
+react native,web3,1
+react native,xcode,1
+react native,грамотная устная и письменная речь,1
+react native,паттерны проектирования,1
+react native,приложения,1
+react native,программирование,1
+react native,программист,1
+react native,разработка,1
+react native,разработка мобильного приложения,1
+react native,разработка по,1
+react native,разработчик,1
+react native,стабильность,1
+react.js,scrum,1
+react.js,ssr,1
+react/redux,typescript,1
+reactivex,retrofit,1
+reactnative,swift,1
+reactnative,xcode,1
+reactnative,мобильные приложения,1
+reactnative,удаленная работа,1
+realitykit,scenekit,1
+realitykit,swift,1
+realitykit,unity 3d,1
+realitykit,креативность,1
+realitykit,работа в команде,1
+realm,rest api,1
+realm,restful,1
+realm,rx,1
+realm,rxalamofire,1
+realm,rxswift,1
+realm,scrum,1
+realm,sdk,1
+realm,sql,1
+realm,storekit,1
+realm,svn,1
+realm,swiftui,1
+realm,ui анимация,1
+realm,ui/ux,1
+realm,uikit,1
+realm,ux,1
+realm,watchkit,1
+realm,websocket,1
+realm,многопоточное программирование,1
+realm,постановка задач разработчикам,1
+redux,rest,1
+redux,rest api,1
+redux,scrum,1
+redux,scss,1
+redux,web3,1
+rest,rest api,1
+rest,rxalamofire,1
+rest,rxswift,1
+rest,saas,1
+rest,scrum,1
+rest,solid,1
+rest,sql,1
+rest,svn,1
+rest,typescript,1
+rest,uikit,1
+rest,unit testing,1
+rest,xcode,1
+rest,xml,1
+rest,английский язык,1
+rest,многопоточное программирование,1
+rest,умение организовать работу,1
+rest api,riverpod,1
+rest api,scss,1
+rest api,sdk,1
+rest api,svn,1
+rest api,swiftui,1
+rest api,ui,1
+rest api,ui анимация,1
+rest api,ui/ux,1
+rest api,viper,1
+rest api,web,1
+rest api,web3,1
+rest api,xcode,1
+rest api,yandex maps api,1
+rest api,информационные технологии,1
+rest api,позитивное мышление,1
+rest api,постановка задач разработчикам,1
+rest api,разработка мобильного приложения,1
+rest api,самостоятельная работа,1
+rest api,умение работать в условиях многозадачности,1
+rest | ws,typescript,1
+restapi,solid,1
+restapi,swiftui,1
+restapi,опп,1
+restful,sqlite,1
+restful,swift,1
+restful,viper,1
+restful,websocket,1
+restful,xcode,1
+restful api,room service,1
+restful api,sqlite,1
+restful api,swift,1
+restful api,uikit,1
+restful api,viewbinding,1
+restful api,xcode,1
+restfull,webkit,1
+restfull,websocket,1
+restfull,нативная сборка мобильных приложений,1
+retrofit,room service,1
+retrofit,rxjava,1
+retrofit,rxjava2,1
+retrofit,solid,1
+retrofit,sqlite,1
+retrofit,viewbinding,1
+retrofit,websockets,1
+retrofit,лидерские качества,1
+retrofit,принятие решений,1
+retrofit,проработка архитектуры,1
+riverpod,solid,1
+riverpod,web,1
+riverpod,yandex maps api,1
+riverpod,мобильные приложения,1
+room,unit testing,1
+room,ооп,1
+room service,sqlite,1
+room service,ооп,1
+rxalamofire,rxswift,1
+rxalamofire,sql,1
+rxalamofire,swift,1
+rxalamofire,uikit,1
+rxalamofire,unit testing,1
+rxalamofire,viper,1
+rxalamofire,многопоточное программирование,1
+rxjava,ооп,1
+rxjava2,websockets,1
+rxjava2,лидерские качества,1
+rxjava2,принятие решений,1
+rxjava2,проработка архитектуры,1
+rxswift,unit testing,1
+rxswift,viper,1
+rxswift,многопоточное программирование,1
+rxswift,ооп,1
+saas,solid,1
+saas,английский язык,1
+saas,обучение и развитие,1
+scenekit,swift,1
+scenekit,unity 3d,1
+scenekit,креативность,1
+scenekit,работа в команде,1
+scrum,ssr,1
+scrum,storekit,1
+scrum,swift,1
+scrum,swiftui,1
+scrum,typescript,1
+scrum,ui,1
+scrum,unit testing,1
+scrum,ux,1
+scrum,watchkit,1
+scrum,мобильные приложения,1
+scss,typescript,1
+scss,web3,1
+sdk,svn,1
+sdk,swift,1
+sdk,ui,1
+sdk,ui анимация,1
+sdk,ui/ux,1
+sdk,viper,1
+sdk,xcode,1
+sdk,постановка задач разработчикам,1
+snapkit,swift,1
+snapkit,swift 5.0,1
+snapkit,ui-тесты,1
+snapkit,unit-тесты,1
+snapkit,лидерские качества,1
+snapkit,принятие решений,1
+snapkit,проработка архитектуры,1
+solid,sql,1
+solid,tcp,1
+solid,web,1
+solid,yandex maps api,1
+solid,английский язык,1
+solid,желание учиться и развиваться,1
+solid,обучение и развитие,1
+solid,опп,1
+solid,паттерны проектирования,1
+solid,работа в команде,1
+solid,удаленная работа,1
+solid works,websockets,1
+solid works,yandex mapkit,1
+solid works,ооп,1
+solidworks,ескд,1
+solidworks,конструирование,1
+solidworks,проектно-конструкторская деятельность,1
+sql,unit testing,1
+sql,unity,1
+sql,viper,1
+sql,многопоточное программирование,1
+sqlite,viper,1
+sqlite,websocket,1
+sqlite,xcode,1
+sqlite,алгоритмы и структуры данных,1
+sqlite,английский язык,1
+sqlite,оптимизация кода,1
+sqlite,удаленная работа,1
+storekit,swift,1
+storekit,swiftui,1
+storekit,ui,1
+storekit,unit testing,1
+storekit,ux,1
+storekit,watchkit,1
+svn,swift,1
+svn,ui,1
+svn,ui анимация,1
+svn,ui/ux,1
+svn,viper,1
+svn,xcode,1
+svn,xml,1
+svn,постановка задач разработчикам,1
+swift,swift alliance,1
+swift,tcp,1
+swift,ui анимация,1
+swift,ui/ux,1
+swift,unity 3d,1
+swift,ux,1
+swift,vue,1
+swift,watchkit,1
+swift,yandex maps api,1
+swift,zoom,1
+swift,амбициозность,1
+swift,английский - а1- начальный,1
+swift,асинхронное программирование,1
+swift,высокие коммуникативные навыки,1
+swift,готовность к стрессовым ситуациям,1
+swift,грамотная устная и письменная речь,1
+swift,договорная работа,1
+swift,желание работать и развиваться,1
+swift,желание расти и развиваться,1
+swift,знание английского языка,1
+swift,информационные технологии,1
+swift,командная работа,1
+swift,креативность,1
+swift,многопоточное программирование,1
+swift,обучение,1
+swift,ответственность,1
+swift,паттерны проектирования,1
+swift,постановка задач разработчикам,1
+swift,приложения,1
+swift,принципы проектирования,1
+swift,проведение тестирований,1
+swift,программист,1
+swift,программист класса junior - middle,1
+swift,продвинутый пользователь пк,1
+swift,работа в много-задачном режиме,1
+swift,работа в условиях многозадачности,1
+swift,разработка,1
+swift,разработка продукта,1
+swift,разработка технических заданий,1
+swift,разработчик,1
+swift,стремление к профессиональному росту,1
+swift,умение организовать работу,1
+swift,эффективное принятие решений,1
+swift 5.0,ui-тесты,1
+swift 5.0,unit-тесты,1
+swift 5.0,лидерские качества,1
+swift 5.0,принятие решений,1
+swift 5.0,проработка архитектуры,1
+swift ui,оптимизация кода,1
+swift ui,проведение тестирований,1
+swift ui,удаленная работа,1
+swiftui,ui,1
+swiftui,unit testing,1
+swiftui,ux,1
+swiftui,watchkit,1
+swiftui,webrtc,1
+swiftui,websocket,1
+swiftui,xcode,1
+swiftui,xcodegen,1
+swiftui,информационные технологии,1
+swiftui,ооп,1
+swiftui,опп,1
+swiftui,удаленная работа,1
+system каталог android,мобильность,1
+tcp,ui,1
+tcp,websocket,1
+tcp,ооп,1
+trello,английский язык,1
+trello,деловая коммуникация,1
+trello,мобильная разработка,1
+trello,работа в команде,1
+trello,управление проектами,1
+typescript,web3,1
+typescript,грамотная устная и письменная речь,1
+typescript,ооп,1
+typescript,паттерны проектирования,1
+typescript,разработка мобильного приложения,1
+typescript,удаленная работа,1
+ui,ui анимация,1
+ui,ui/ux,1
+ui,unit testing,1
+ui,ux,1
+ui,viper,1
+ui,watchkit,1
+ui,websocket,1
+ui,xcode,1
+ui,английский язык,1
+ui,желание учиться и развиваться,1
+ui,постановка задач разработчикам,1
+ui,работа в команде,1
+ui анимация,ui/ux,1
+ui анимация,viper,1
+ui анимация,xcode,1
+ui анимация,постановка задач разработчикам,1
+ui-тесты,unit-тесты,1
+ui-тесты,лидерские качества,1
+ui-тесты,принятие решений,1
+ui-тесты,проработка архитектуры,1
+ui/ux,viper,1
+ui/ux,xcode,1
+ui/ux,постановка задач разработчикам,1
+uikit,websocket,1
+uikit,многопоточное программирование,1
+uikit,обучение и развитие,1
+uikit,работа в команде,1
+uikit,разработка продукта,1
+unit testing,ux,1
+unit testing,watchkit,1
+unit testing,многопоточное программирование,1
+unit testing,мобильные приложения,1
+unit testing,ооп,1
+unit testing,разработка продукта,1
+unit-тесты,лидерские качества,1
+unit-тесты,принятие решений,1
+unit-тесты,проработка архитектуры,1
+unity,unity 3d,1
+unity,unity3d,1
+unity,мобильные приложения,1
+unity,с#,1
+unity 3d,unity3d,1
+unity 3d,креативность,1
+unity 3d,мобильные приложения,1
+unity 3d,работа в команде,1
+unity 3d,с#,1
+unity3d,мобильные приложения,1
+unity3d,с#,1
+ux,watchkit,1
+viper,websocket,1
+viper,английский язык,1
+viper,многопоточное программирование,1
+viper,ооп,1
+viper,постановка задач разработчикам,1
+viper,разработка продукта,1
+vue,xcode,1
+vue,мобильные приложения,1
+vue,ооп,1
+vue,приложения,1
+vue,программирование,1
+vue,программист,1
+vue,разработка,1
+vue,разработчик,1
+web,yandex maps api,1
+web,мобильные приложения,1
+webkit,websocket,1
+webkit,нативная сборка мобильных приложений,1
+webrtc,xcodegen,1
+websocket,xcode,1
+websocket,нативная сборка мобильных приложений,1
+websockets,yandex mapkit,1
+websockets,лидерские качества,1
+websockets,ооп,1
+websockets,принятие решений,1
+websockets,проработка архитектуры,1
+xcode,yandex maps api,1
+xcode,австралийское время,1
+xcode,асинхронное программирование,1
+xcode,высокие коммуникативные навыки,1
+xcode,желание работать и развиваться,1
+xcode,желание расти и развиваться,1
+xcode,командная работа,1
+xcode,оптимизация кода,1
+xcode,паттерны проектирования,1
+xcode,постановка задач разработчикам,1
+xcode,приложения,1
+xcode,программирование,1
+xcode,программист,1
+xcode,работа в условиях многозадачности,1
+xcode,разговорный английский,1
+xcode,разработка,1
+xcode,разработчик,1
+xcode,свободное владение английским языком,1
+xcode,стремление к профессиональному росту,1
+xml,английский язык,1
+xml,ооп,1
+xml,оптимизация кода,1
+yandex mapkit,ооп,1
+yandex maps api,асинхронное программирование,1
+yandex maps api,желание работать и развиваться,1
+yandex maps api,командная работа,1
+yandex maps api,мобильные приложения,1
+yandex maps api,оптимизация кода,1
+yandex maps api,работа в условиях многозадачности,1
+yandex maps api,стремление к профессиональному росту,1
+yandex maps api,умение работать в условиях многозадачности,1
+zoom,амбициозность,1
+zoom,готовность к стрессовым ситуациям,1
+zoom,грамотная устная и письменная речь,1
+zoom,ооп,1
+zoom,ответственность,1
+zoom,программист класса junior - middle,1
+zoom,продвинутый пользователь пк,1
+zoom,работа в много-задачном режиме,1
+zoom,разработка технических заданий,1
+zoom,эффективное принятие решений,1
+австралийское время,английский язык,1
+австралийское время,разговорный английский,1
+австралийское время,свободное владение английским языком,1
+австралийское время,удаленная работа,1
+активное слушание,умение работать в условиях многозадачности,1
+активное слушание,умение работать с большим количеством информации,1
+алгоритмы и структуры данных,ооп,1
+алгоритмы и структуры данных,удаленная работа,1
+амбициозность,готовность к стрессовым ситуациям,1
+амбициозность,грамотная устная и письменная речь,1
+амбициозность,ооп,1
+амбициозность,ответственность,1
+амбициозность,программист класса junior - middle,1
+амбициозность,продвинутый пользователь пк,1
+амбициозность,работа в много-задачном режиме,1
+амбициозность,разработка технических заданий,1
+амбициозность,эффективное принятие решений,1
+анализ конкурентной среды,коммуникабельность,1
+анализ конкурентной среды,креативность,1
+анализ конкурентной среды,мобильные приложения,1
+анализ конкурентной среды,ответственность,1
+анализ конкурентной среды,разработка технических заданий,1
+анализ конкурентной среды,составление тз,1
+анализ конкурентной среды,удаленная работа,1
+аналитическое мышление,грамотная речь,1
+аналитическое мышление,мобильная разработка,1
+английский язык,английский язык (upper-intermediate),1
+английский язык,высокие коммуникативные навыки,1
+английский язык,договорная работа,1
+английский язык,желание расти и развиваться,1
+английский язык,желание учиться и развиваться,1
+английский язык,знание английского языка,1
+английский язык,мобильная разработка,1
+английский язык,обучение,1
+английский язык,обучение и развитие,1
+английский язык,оптимизация кода,1
+английский язык,ответственность,1
+английский язык,паттерны проектирования,1
+английский язык,поиск персонала в открытых источниках,1
+английский язык,разговорный английский,1
+английский язык,разносторонность,1
+английский язык,свободное владение английским языком,1
+английский язык,удаленная работа,1
+английский язык,умение работать в условиях многозадачности,1
+английский язык,управление проектами,1
+английский язык (upper-intermediate),деловая коммуникация,1
+английский язык (upper-intermediate),поиск персонала в открытых источниках,1
+английский язык (upper-intermediate),работа в команде,1
+асинхронное программирование,желание работать и развиваться,1
+асинхронное программирование,командная работа,1
+асинхронное программирование,оптимизация кода,1
+асинхронное программирование,работа в условиях многозадачности,1
+асинхронное программирование,стремление к профессиональному росту,1
+асинхронное программирование,умение работать в условиях многозадачности,1
+быстрое обучение,знание ms office,1
+быстрое обучение,ооп,1
+быстрое обучение,опытный пользовать пк,1
+быстрое обучение,паттерны проектирования,1
+быстрое обучение,работа в условиях многозадачности,1
+быстрое обучение,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+быстрое обучение,умение анализировать,1
+быстрое обучение,умение быстро усваивать новую информацию,1
+быстрое обучение,умение работать в условиях многозадачности,1
+быстрое обучение,эффективное принятие решений,1
+быстрое обучение,эффективное решение проблем,1
+внимательность,грамотная письменная речь,1
+внимательность,деловая переписка,1
+внимательность,навыки презентации,1
+внимательность,опыт работы с людьми,1
+внимательность,ответственность,1
+внимательность,проведение презентаций,1
+внимательность,работа в условиях многозадачности,1
+внимательность,работа с ключевыми клиентами,1
+внимательность,разработка технических заданий,1
+внимательность,управление интернет-проектами,1
+высокие коммуникативные навыки,желание расти и развиваться,1
+высокие коммуникативные навыки,ооп,1
+высокие коммуникативные навыки,паттерны проектирования,1
+высокие коммуникативные навыки,умение работать в условиях многозадачности,1
+гдм,гидродинамическое моделирование,1
+готовность к стрессовым ситуациям,грамотная устная и письменная речь,1
+готовность к стрессовым ситуациям,ооп,1
+готовность к стрессовым ситуациям,ответственность,1
+готовность к стрессовым ситуациям,программист класса junior - middle,1
+готовность к стрессовым ситуациям,продвинутый пользователь пк,1
+готовность к стрессовым ситуациям,работа в много-задачном режиме,1
+готовность к стрессовым ситуациям,разработка технических заданий,1
+готовность к стрессовым ситуациям,эффективное принятие решений,1
+готовность обучаться,желание обучаться,1
+готовность обучаться,критически мыслить,1
+готовность обучаться,ооп,1
+готовность обучаться,основы программирования,1
+готовность обучаться,работа в команде,1
+готовность обучаться,терпение,1
+готовность обучаться,умение работать в условиях многозадачности,1
+грамотная письменная речь,деловая переписка,1
+грамотная письменная речь,навыки презентации,1
+грамотная письменная речь,опыт работы с людьми,1
+грамотная письменная речь,ответственность,1
+грамотная письменная речь,проведение презентаций,1
+грамотная письменная речь,работа в условиях многозадачности,1
+грамотная письменная речь,работа с ключевыми клиентами,1
+грамотная письменная речь,разработка технических заданий,1
+грамотная письменная речь,управление интернет-проектами,1
+грамотная речь,мобильная разработка,1
+грамотная устная и письменная речь,деловая коммуникация,1
+грамотная устная и письменная речь,коммуникабельность,1
+грамотная устная и письменная речь,паттерны проектирования,1
+грамотная устная и письменная речь,программист класса junior - middle,1
+грамотная устная и письменная речь,продвинутый пользователь пк,1
+грамотная устная и письменная речь,работа в много-задачном режиме,1
+грамотная устная и письменная речь,разработка технических заданий,1
+грамотная устная и письменная речь,разрешение конфликтных ситуаций,1
+грамотная устная и письменная речь,способность работать в режиме многозадачности,1
+грамотная устная и письменная речь,умение работать с клиентами,1
+грамотная устная и письменная речь,умение работать с людьми,1
+грамотная устная и письменная речь,управление временем,1
+грамотная устная и письменная речь,эффективное принятие решений,1
+деловая коммуникация,коммуникабельность,1
+деловая коммуникация,мобильная разработка,1
+деловая коммуникация,ответственность,1
+деловая коммуникация,поиск персонала в открытых источниках,1
+деловая коммуникация,разрешение конфликтных ситуаций,1
+деловая коммуникация,способность работать в режиме многозадачности,1
+деловая коммуникация,умение работать с клиентами,1
+деловая коммуникация,умение работать с людьми,1
+деловая коммуникация,управление временем,1
+деловая коммуникация,управление проектами,1
+деловая переписка,навыки презентации,1
+деловая переписка,опыт работы с людьми,1
+деловая переписка,ответственность,1
+деловая переписка,проведение презентаций,1
+деловая переписка,работа в условиях многозадачности,1
+деловая переписка,работа с ключевыми клиентами,1
+деловая переписка,разработка технических заданий,1
+деловая переписка,управление интернет-проектами,1
+договорная работа,знание английского языка,1
+договорная работа,обучение,1
+договорная работа,обучение и развитие,1
+договорная работа,работа в команде,1
+дружелюбие,дружелюбность,1
+дружелюбие,заинтересованность,1
+дружелюбие,мобильные приложения,1
+дружелюбие,ответственность и пунктуальность,1
+дружелюбие,планирование карьеры,1
+дружелюбие,работа с большим пулом запросов,1
+дружелюбие,умение проявлять внимание,1
+дружелюбность,заинтересованность,1
+дружелюбность,мобильные приложения,1
+дружелюбность,ответственность и пунктуальность,1
+дружелюбность,планирование карьеры,1
+дружелюбность,работа с большим пулом запросов,1
+дружелюбность,умение проявлять внимание,1
+ескд,конструирование,1
+ескд,проектно-конструкторская деятельность,1
+желание обучаться,критически мыслить,1
+желание обучаться,ооп,1
+желание обучаться,основы программирования,1
+желание обучаться,работа в команде,1
+желание обучаться,терпение,1
+желание обучаться,умение работать в условиях многозадачности,1
+желание работать и развиваться,командная работа,1
+желание работать и развиваться,оптимизация кода,1
+желание работать и развиваться,работа в условиях многозадачности,1
+желание работать и развиваться,стремление к профессиональному росту,1
+желание работать и развиваться,умение работать в условиях многозадачности,1
+желание расти и развиваться,ооп,1
+желание расти и развиваться,паттерны проектирования,1
+желание расти и развиваться,умение работать в условиях многозадачности,1
+желание учиться и развиваться,знание английского языка,1
+заинтересованность,мобильные приложения,1
+заинтересованность,ответственность и пунктуальность,1
+заинтересованность,планирование карьеры,1
+заинтересованность,работа с большим пулом запросов,1
+заинтересованность,умение проявлять внимание,1
+знание ms office,ооп,1
+знание ms office,опытный пользовать пк,1
+знание ms office,паттерны проектирования,1
+знание ms office,работа в условиях многозадачности,1
+знание ms office,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+знание ms office,умение анализировать,1
+знание ms office,умение быстро усваивать новую информацию,1
+знание ms office,умение работать в условиях многозадачности,1
+знание ms office,эффективное принятие решений,1
+знание ms office,эффективное решение проблем,1
+знание английского языка,обучение,1
+знание английского языка,обучение и развитие,1
+знание английского языка,ооп,1
+командная работа,оптимизация кода,1
+командная работа,работа в условиях многозадачности,1
+командная работа,стремление к профессиональному росту,1
+командная работа,умение работать в условиях многозадачности,1
+коммуникабельность,креативность,1
+коммуникабельность,мобильные приложения,1
+коммуникабельность,разработка технических заданий,1
+коммуникабельность,разрешение конфликтных ситуаций,1
+коммуникабельность,составление тз,1
+коммуникабельность,способность работать в режиме многозадачности,1
+коммуникабельность,удаленная работа,1
+коммуникабельность,умение работать с клиентами,1
+коммуникабельность,умение работать с людьми,1
+коммуникабельность,управление временем,1
+конструирование,проектно-конструкторская деятельность,1
+креативность,мобильные приложения,1
+креативность,ответственность,1
+креативность,поиск информации в интернет,1
+креативность,работа в команде,1
+креативность,разработка технических заданий,1
+креативность,составление тз,1
+креативность,удаленная работа,1
+креативность,хорошая память,1
+критически мыслить,ооп,1
+критически мыслить,основы программирования,1
+критически мыслить,работа в команде,1
+критически мыслить,терпение,1
+критически мыслить,умение работать в условиях многозадачности,1
+мобильная разработка,работа в команде,1
+мобильная разработка,управление проектами,1
+мобильные приложения,ответственность,1
+мобильные приложения,ответственность и пунктуальность,1
+мобильные приложения,планирование карьеры,1
+мобильные приложения,приложения,1
+мобильные приложения,проведение интервью,1
+мобильные приложения,программирование,1
+мобильные приложения,программист,1
+мобильные приложения,работа в команде,1
+мобильные приложения,работа в условиях многозадачности,1
+мобильные приложения,работа с большим пулом запросов,1
+мобильные приложения,разработка,1
+мобильные приложения,разработка продукта,1
+мобильные приложения,разработка технических заданий,1
+мобильные приложения,разработчик,1
+мобильные приложения,с#,1
+мобильные приложения,составление тз,1
+мобильные приложения,спокойствие,1
+мобильные приложения,умение находить общий язык,1
+мобильные приложения,умение проявлять внимание,1
+мобильные приложения,управление командой,1
+навыки презентации,опыт работы с людьми,1
+навыки презентации,ответственность,1
+навыки презентации,проведение презентаций,1
+навыки презентации,работа в условиях многозадачности,1
+навыки презентации,работа с ключевыми клиентами,1
+навыки презентации,разработка технических заданий,1
+навыки презентации,управление интернет-проектами,1
+обучение,обучение и развитие,1
+обучение,работа в команде,1
+ооп,оптимизация кода,1
+ооп,опытный пользовать пк,1
+ооп,основы программирования,1
+ооп,приложения,1
+ооп,программист,1
+ооп,программист класса junior - middle,1
+ооп,продвинутый пользователь пк,1
+ооп,работа в много-задачном режиме,1
+ооп,работа в условиях многозадачности,1
+ооп,разносторонность,1
+ооп,разработка,1
+ооп,разработка технических заданий,1
+ооп,разработчик,1
+ооп,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+ооп,терпение,1
+ооп,умение анализировать,1
+ооп,умение быстро усваивать новую информацию,1
+ооп,эффективное решение проблем,1
+оптимизация кода,проведение тестирований,1
+оптимизация кода,работа в условиях многозадачности,1
+оптимизация кода,стремление к профессиональному росту,1
+оптимизация кода,удаленная работа,1
+оптимизация кода,умение работать в условиях многозадачности,1
+опыт работы в команде,удаленная работа,1
+опыт работы с людьми,ответственность,1
+опыт работы с людьми,проведение презентаций,1
+опыт работы с людьми,работа в условиях многозадачности,1
+опыт работы с людьми,работа с ключевыми клиентами,1
+опыт работы с людьми,разработка технических заданий,1
+опыт работы с людьми,управление интернет-проектами,1
+опытный пользовать пк,паттерны проектирования,1
+опытный пользовать пк,работа в условиях многозадачности,1
+опытный пользовать пк,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+опытный пользовать пк,умение анализировать,1
+опытный пользовать пк,умение быстро усваивать новую информацию,1
+опытный пользовать пк,умение работать в условиях многозадачности,1
+опытный пользовать пк,эффективное принятие решений,1
+опытный пользовать пк,эффективное решение проблем,1
+основы программирования,работа в команде,1
+основы программирования,терпение,1
+основы программирования,умение работать в условиях многозадачности,1
+ответственность,проведение презентаций,1
+ответственность,программист класса junior - middle,1
+ответственность,продвинутый пользователь пк,1
+ответственность,работа в много-задачном режиме,1
+ответственность,работа в условиях многозадачности,1
+ответственность,работа с ключевыми клиентами,1
+ответственность,разносторонность,1
+ответственность,разрешение конфликтных ситуаций,1
+ответственность,составление тз,1
+ответственность,способность работать в режиме многозадачности,1
+ответственность,удаленная работа,1
+ответственность,умение работать с клиентами,1
+ответственность,умение работать с людьми,1
+ответственность,управление временем,1
+ответственность,управление интернет-проектами,1
+ответственность,эффективное принятие решений,1
+ответственность и пунктуальность,планирование карьеры,1
+ответственность и пунктуальность,работа с большим пулом запросов,1
+ответственность и пунктуальность,умение проявлять внимание,1
+паттерны проектирования,работа в условиях многозадачности,1
+паттерны проектирования,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+паттерны проектирования,умение анализировать,1
+паттерны проектирования,умение быстро усваивать новую информацию,1
+паттерны проектирования,эффективное принятие решений,1
+паттерны проектирования,эффективное решение проблем,1
+планирование карьеры,работа с большим пулом запросов,1
+планирование карьеры,умение проявлять внимание,1
+позитивное мышление,самостоятельная работа,1
+поиск информации в интернет,хорошая память,1
+поиск персонала в открытых источниках,работа в команде,1
+приложения,программирование,1
+приложения,программист,1
+приложения,разработка,1
+приложения,разработчик,1
+проведение интервью,работа в команде,1
+проведение интервью,работа в условиях многозадачности,1
+проведение интервью,спокойствие,1
+проведение интервью,умение находить общий язык,1
+проведение интервью,управление командой,1
+проведение презентаций,работа в условиях многозадачности,1
+проведение презентаций,работа с ключевыми клиентами,1
+проведение презентаций,разработка технических заданий,1
+проведение презентаций,управление интернет-проектами,1
+проведение тестирований,удаленная работа,1
+программирование,программист,1
+программирование,разработка,1
+программирование,разработчик,1
+программист,разработка,1
+программист,разработчик,1
+программист класса junior - middle,продвинутый пользователь пк,1
+программист класса junior - middle,работа в много-задачном режиме,1
+программист класса junior - middle,разработка технических заданий,1
+программист класса junior - middle,эффективное принятие решений,1
+продвинутый пользователь пк,работа в много-задачном режиме,1
+продвинутый пользователь пк,разработка технических заданий,1
+продвинутый пользователь пк,эффективное принятие решений,1
+работа в команде,работа в условиях многозадачности,1
+работа в команде,спокойствие,1
+работа в команде,терпение,1
+работа в команде,умение находить общий язык,1
+работа в команде,умение работать в условиях многозадачности,1
+работа в команде,управление командой,1
+работа в команде,управление проектами,1
+работа в много-задачном режиме,разработка технических заданий,1
+работа в много-задачном режиме,эффективное принятие решений,1
+работа в условиях многозадачности,работа с ключевыми клиентами,1
+работа в условиях многозадачности,разработка технических заданий,1
+работа в условиях многозадачности,спокойствие,1
+работа в условиях многозадачности,способность быстро обучаться и легко воспринимать крупные объемы информации,1
+работа в условиях многозадачности,стремление к профессиональному росту,1
+работа в условиях многозадачности,умение анализировать,1
+работа в условиях многозадачности,умение быстро усваивать новую информацию,1
+работа в условиях многозадачности,умение находить общий язык,1
+работа в условиях многозадачности,управление интернет-проектами,1
+работа в условиях многозадачности,управление командой,1
+работа в условиях многозадачности,эффективное принятие решений,1
+работа в условиях многозадачности,эффективное решение проблем,1
+работа с большим пулом запросов,умение проявлять внимание,1
+работа с ключевыми клиентами,разработка технических заданий,1
+работа с ключевыми клиентами,управление интернет-проектами,1
+разговорный английский,свободное владение английским языком,1
+разговорный английский,удаленная работа,1
+разработка,разработчик,1
+разработка мобильного приложения,удаленная работа,1
+разработка по,стабильность,1
+разработка по,удаленная работа,1
+разработка технических заданий,составление тз,1
+разработка технических заданий,удаленная работа,1
+разработка технических заданий,управление интернет-проектами,1
+разработка технических заданий,эффективное принятие решений,1
+разрешение конфликтных ситуаций,способность работать в режиме многозадачности,1
+разрешение конфликтных ситуаций,умение работать с клиентами,1
+разрешение конфликтных ситуаций,умение работать с людьми,1
+разрешение конфликтных ситуаций,управление временем,1
+свободное владение английским языком,удаленная работа,1
+составление тз,удаленная работа,1
+социальные сети,удаленная работа,1
+спокойствие,умение находить общий язык,1
+спокойствие,управление командой,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,умение анализировать,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,умение быстро усваивать новую информацию,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,умение работать в условиях многозадачности,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,эффективное принятие решений,1
+способность быстро обучаться и легко воспринимать крупные объемы информации,эффективное решение проблем,1
+способность работать в режиме многозадачности,умение работать с клиентами,1
+способность работать в режиме многозадачности,умение работать с людьми,1
+способность работать в режиме многозадачности,управление временем,1
+стабильность,удаленная работа,1
+стремление к профессиональному росту,умение работать в условиях многозадачности,1
+терпение,умение работать в условиях многозадачности,1
+умение анализировать,умение быстро усваивать новую информацию,1
+умение анализировать,умение работать в условиях многозадачности,1
+умение анализировать,эффективное принятие решений,1
+умение анализировать,эффективное решение проблем,1
+умение быстро усваивать новую информацию,умение работать в условиях многозадачности,1
+умение быстро усваивать новую информацию,эффективное принятие решений,1
+умение быстро усваивать новую информацию,эффективное решение проблем,1
+умение находить общий язык,управление командой,1
+умение работать в условиях многозадачности,умение работать с большим количеством информации,1
+умение работать в условиях многозадачности,эффективное принятие решений,1
+умение работать в условиях многозадачности,эффективное решение проблем,1
+умение работать с клиентами,умение работать с людьми,1
+умение работать с клиентами,управление временем,1
+умение работать с людьми,управление временем,1
+эффективное принятие решений,эффективное решение проблем,1
