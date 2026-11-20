@@ -1,0 +1,3 @@
+{"event": "start", "mode": "worker", "source": "kubernetes/20261119T230458Z/shards/part-1.csv", "chunk_size": 5000}
+{"event": "progress", "chunks": 25, "peak_bytes": 96681984}
+{"event": "summary", "mode": "worker", "source": "kubernetes/20261119T230458Z/shards/part-1.csv", "chunk_size": 5000, "seconds": 6.119805292997626, "peak_bytes": 96681984, "memory_metric": "cgroup_v2_peak", "suggested_limit_mib": 128, "stats": {"total_rows": 140593, "selected_rows": 85, "rows_with_skills": 72, "duplicate_rows": 2}, "unique_pairs": 1191, "pair_occurrences": 1654}

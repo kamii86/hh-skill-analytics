@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "event": "summary",
+    "mode": "run",
+    "source": "raw/Raw_Jobs.csv",
+    "chunk_size": 5000,
+    "seconds": 21.06575988399709,
+    "peak_bytes": 106102784,
+    "memory_metric": "cgroup_v2_peak",
+    "suggested_limit_mib": 128,
+    "stats": {
+      "total_rows": 561989,
+      "selected_rows": 321,
+      "rows_with_skills": 262,
+      "duplicate_rows": 3
+    },
+    "unique_pairs": 3674,
+    "pair_occurrences": 6039
+  },
+  "oom_attempts": [
+    {
+      "limit_mib": 64,
+      "complete": false,
+      "termination_reasons": [
+        "OOMKilled"
+      ]
+    }
+  ],
+  "limit_mib": 128,
+  "rule": "ceil(peak_bytes * 1.25 / 16MiB) * 16MiB"
+}

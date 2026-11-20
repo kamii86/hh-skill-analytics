@@ -1,0 +1,1 @@
+{"mode": "worker", "source": "kubernetes/20261119T230458Z/shards/part-2.csv", "chunk_size": 5000, "seconds": 6.669111461000284, "peak_bytes": 87347200, "memory_metric": "cgroup_v2_peak", "suggested_limit_mib": 112, "stats": {"total_rows": 140471, "selected_rows": 62, "rows_with_skills": 53}, "unique_pairs": 786, "pair_occurrences": 1092}

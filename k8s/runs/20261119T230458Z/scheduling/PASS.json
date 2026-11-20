@@ -1,0 +1,6 @@
+{
+  "insufficient_cpu": true,
+  "scheduled_after_release": true,
+  "scheduler_preemption": true,
+  "quota_rejected": true
+}

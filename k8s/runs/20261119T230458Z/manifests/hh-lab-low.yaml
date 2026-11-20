@@ -1,0 +1,8 @@
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata:
+  name: hh-lab-low
+value: 100
+globalDefault: false
+preemptionPolicy: Never
+description: Low priority workload for the laboratory experiment

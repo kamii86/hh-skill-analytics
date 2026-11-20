@@ -1,0 +1,25 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    lab: scheduling
+  name: quota-second
+  namespace: hh-quota
+spec:
+  containers:
+  - command:
+    - python
+    - -c
+    - import time; time.sleep(1800)
+    image: hh-skills:k8s
+    imagePullPolicy: Never
+    name: sleep
+    resources:
+      limits:
+        cpu: 300m
+        memory: 128Mi
+      requests:
+        cpu: 300m
+        memory: 32Mi
+  restartPolicy: Never
+  terminationGracePeriodSeconds: 5

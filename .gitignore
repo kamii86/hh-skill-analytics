@@ -36,3 +36,5 @@ results/audit/
 # ZooKeeper homework evidence
 !logs/**/*.log
 !logs/**/*.jsonl
+
+.venv-k8s/

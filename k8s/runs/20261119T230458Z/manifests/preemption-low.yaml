@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hh-low
+  namespace: hh-k8s
+  labels:
+    lab: scheduling
+spec:
+  restartPolicy: Never
+  terminationGracePeriodSeconds: 5
+  containers:
+  - name: sleep
+    image: hh-skills:k8s
+    imagePullPolicy: Never
+    command:
+    - python
+    - -c
+    - import time; time.sleep(1800)
+    resources:
+      requests:
+        cpu: 6850m
+        memory: 32Mi
+      limits:
+        cpu: 6850m
+        memory: 128Mi
+  priorityClassName: hh-lab-low-v2
+  nodeSelector:
+    kubernetes.io/hostname: hh-k8s

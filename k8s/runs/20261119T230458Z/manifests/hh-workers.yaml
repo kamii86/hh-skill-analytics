@@ -1,0 +1,42 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: hh-workers
+  namespace: hh-k8s
+spec:
+  backoffLimit: 0
+  activeDeadlineSeconds: 1800
+  template:
+    metadata:
+      labels:
+        lab: skills
+    spec:
+      restartPolicy: Never
+      containers:
+      - name: skills
+        image: hh-skills:k8s
+        imagePullPolicy: Never
+        args:
+        - worker
+        - --prefix
+        - kubernetes/20261119T230458Z
+        envFrom:
+        - configMapRef:
+            name: s3-config
+        - secretRef:
+            name: s3-credentials
+        resources:
+          requests:
+            cpu: 200m
+            memory: 16Mi
+          limits:
+            cpu: '1'
+            memory: 128Mi
+        env:
+        - name: JOB_COMPLETION_INDEX
+          valueFrom:
+            fieldRef:
+              fieldPath: metadata.annotations['batch.kubernetes.io/job-completion-index']
+  completionMode: Indexed
+  completions: 4
+  parallelism: 2

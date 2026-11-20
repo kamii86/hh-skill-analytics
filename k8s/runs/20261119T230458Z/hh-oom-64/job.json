@@ -1,0 +1,116 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "annotations": {
+      "kubectl.kubernetes.io/last-applied-configuration": "{\"apiVersion\":\"batch/v1\",\"kind\":\"Job\",\"metadata\":{\"annotations\":{},\"name\":\"hh-oom-64\",\"namespace\":\"hh-k8s\"},\"spec\":{\"activeDeadlineSeconds\":1800,\"backoffLimit\":0,\"template\":{\"metadata\":{\"labels\":{\"lab\":\"skills\"}},\"spec\":{\"containers\":[{\"args\":[\"run\",\"--prefix\",\"kubernetes/20261119T230458Z/oom-64\"],\"envFrom\":[{\"configMapRef\":{\"name\":\"s3-config\"}},{\"secretRef\":{\"name\":\"s3-credentials\"}}],\"image\":\"hh-skills:k8s\",\"imagePullPolicy\":\"Never\",\"name\":\"skills\",\"resources\":{\"limits\":{\"cpu\":\"1\",\"memory\":\"64Mi\"},\"requests\":{\"cpu\":\"200m\",\"memory\":\"16Mi\"}}}],\"restartPolicy\":\"Never\"}}}}\n"
+    },
+    "creationTimestamp": "2026-11-19T23:10:03Z",
+    "generation": 1,
+    "labels": {
+      "batch.kubernetes.io/controller-uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f",
+      "batch.kubernetes.io/job-name": "hh-oom-64",
+      "controller-uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f",
+      "job-name": "hh-oom-64",
+      "lab": "skills"
+    },
+    "name": "hh-oom-64",
+    "namespace": "hh-k8s",
+    "resourceVersion": "1081",
+    "uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f"
+  },
+  "spec": {
+    "activeDeadlineSeconds": 1800,
+    "backoffLimit": 0,
+    "completionMode": "NonIndexed",
+    "completions": 1,
+    "manualSelector": false,
+    "parallelism": 1,
+    "podReplacementPolicy": "TerminatingOrFailed",
+    "selector": {
+      "matchLabels": {
+        "batch.kubernetes.io/controller-uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f"
+      }
+    },
+    "suspend": false,
+    "template": {
+      "metadata": {
+        "labels": {
+          "batch.kubernetes.io/controller-uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f",
+          "batch.kubernetes.io/job-name": "hh-oom-64",
+          "controller-uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f",
+          "job-name": "hh-oom-64",
+          "lab": "skills"
+        }
+      },
+      "spec": {
+        "containers": [
+          {
+            "args": [
+              "run",
+              "--prefix",
+              "kubernetes/20261119T230458Z/oom-64"
+            ],
+            "envFrom": [
+              {
+                "configMapRef": {
+                  "name": "s3-config"
+                }
+              },
+              {
+                "secretRef": {
+                  "name": "s3-credentials"
+                }
+              }
+            ],
+            "image": "hh-skills:k8s",
+            "imagePullPolicy": "Never",
+            "name": "skills",
+            "resources": {
+              "limits": {
+                "cpu": "1",
+                "memory": "64Mi"
+              },
+              "requests": {
+                "cpu": "200m",
+                "memory": "16Mi"
+              }
+            },
+            "terminationMessagePath": "/dev/termination-log",
+            "terminationMessagePolicy": "File"
+          }
+        ],
+        "dnsPolicy": "ClusterFirst",
+        "restartPolicy": "Never",
+        "schedulerName": "default-scheduler",
+        "securityContext": {},
+        "terminationGracePeriodSeconds": 30
+      }
+    }
+  },
+  "status": {
+    "conditions": [
+      {
+        "lastProbeTime": "2026-11-19T23:10:08Z",
+        "lastTransitionTime": "2026-11-19T23:10:08Z",
+        "message": "Job has reached the specified backoff limit",
+        "reason": "BackoffLimitExceeded",
+        "status": "True",
+        "type": "FailureTarget"
+      },
+      {
+        "lastProbeTime": "2026-11-19T23:10:08Z",
+        "lastTransitionTime": "2026-11-19T23:10:08Z",
+        "message": "Job has reached the specified backoff limit",
+        "reason": "BackoffLimitExceeded",
+        "status": "True",
+        "type": "Failed"
+      }
+    ],
+    "failed": 1,
+    "ready": 0,
+    "startTime": "2026-11-19T23:10:03Z",
+    "terminating": 0,
+    "uncountedTerminatedPods": {}
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "allocatable_mcpu": 8000.0,
+  "requested_mcpu": 1050.0,
+  "available_mcpu": 6950.0
+}

@@ -1,0 +1,7 @@
+{
+  "bucket": "hh-lake",
+  "key": "raw/Raw_Jobs.csv",
+  "size_bytes": 1556363336,
+  "source_sha256": "6170a3db1185c844ca23e6a46f49ddaf3b7593f992d59eb537dc767b21db1a73",
+  "cluster_sha256": "6170a3db1185c844ca23e6a46f49ddaf3b7593f992d59eb537dc767b21db1a73"
+}

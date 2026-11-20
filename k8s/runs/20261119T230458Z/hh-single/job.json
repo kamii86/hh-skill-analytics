@@ -1,0 +1,117 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "annotations": {
+      "kubectl.kubernetes.io/last-applied-configuration": "{\"apiVersion\":\"batch/v1\",\"kind\":\"Job\",\"metadata\":{\"annotations\":{},\"name\":\"hh-single\",\"namespace\":\"hh-k8s\"},\"spec\":{\"activeDeadlineSeconds\":1800,\"backoffLimit\":0,\"template\":{\"metadata\":{\"labels\":{\"lab\":\"skills\"}},\"spec\":{\"containers\":[{\"args\":[\"run\",\"--prefix\",\"kubernetes/20261119T230458Z/single\"],\"envFrom\":[{\"configMapRef\":{\"name\":\"s3-config\"}},{\"secretRef\":{\"name\":\"s3-credentials\"}}],\"image\":\"hh-skills:k8s\",\"imagePullPolicy\":\"Never\",\"name\":\"skills\",\"resources\":{\"limits\":{\"cpu\":\"1\",\"memory\":\"128Mi\"},\"requests\":{\"cpu\":\"200m\",\"memory\":\"16Mi\"}}}],\"restartPolicy\":\"Never\"}}}}\n"
+    },
+    "creationTimestamp": "2026-11-19T23:16:04Z",
+    "generation": 1,
+    "labels": {
+      "batch.kubernetes.io/controller-uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e",
+      "batch.kubernetes.io/job-name": "hh-single",
+      "controller-uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e",
+      "job-name": "hh-single",
+      "lab": "skills"
+    },
+    "name": "hh-single",
+    "namespace": "hh-k8s",
+    "resourceVersion": "1502",
+    "uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e"
+  },
+  "spec": {
+    "activeDeadlineSeconds": 1800,
+    "backoffLimit": 0,
+    "completionMode": "NonIndexed",
+    "completions": 1,
+    "manualSelector": false,
+    "parallelism": 1,
+    "podReplacementPolicy": "TerminatingOrFailed",
+    "selector": {
+      "matchLabels": {
+        "batch.kubernetes.io/controller-uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e"
+      }
+    },
+    "suspend": false,
+    "template": {
+      "metadata": {
+        "labels": {
+          "batch.kubernetes.io/controller-uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e",
+          "batch.kubernetes.io/job-name": "hh-single",
+          "controller-uid": "900e03f1-3b16-4bf5-b2a1-2fccb8dd601e",
+          "job-name": "hh-single",
+          "lab": "skills"
+        }
+      },
+      "spec": {
+        "containers": [
+          {
+            "args": [
+              "run",
+              "--prefix",
+              "kubernetes/20261119T230458Z/single"
+            ],
+            "envFrom": [
+              {
+                "configMapRef": {
+                  "name": "s3-config"
+                }
+              },
+              {
+                "secretRef": {
+                  "name": "s3-credentials"
+                }
+              }
+            ],
+            "image": "hh-skills:k8s",
+            "imagePullPolicy": "Never",
+            "name": "skills",
+            "resources": {
+              "limits": {
+                "cpu": "1",
+                "memory": "128Mi"
+              },
+              "requests": {
+                "cpu": "200m",
+                "memory": "16Mi"
+              }
+            },
+            "terminationMessagePath": "/dev/termination-log",
+            "terminationMessagePolicy": "File"
+          }
+        ],
+        "dnsPolicy": "ClusterFirst",
+        "restartPolicy": "Never",
+        "schedulerName": "default-scheduler",
+        "securityContext": {},
+        "terminationGracePeriodSeconds": 30
+      }
+    }
+  },
+  "status": {
+    "completionTime": "2026-11-19T23:16:21Z",
+    "conditions": [
+      {
+        "lastProbeTime": "2026-11-19T23:16:21Z",
+        "lastTransitionTime": "2026-11-19T23:16:21Z",
+        "message": "Reached expected number of succeeded pods",
+        "reason": "CompletionsReached",
+        "status": "True",
+        "type": "SuccessCriteriaMet"
+      },
+      {
+        "lastProbeTime": "2026-11-19T23:16:21Z",
+        "lastTransitionTime": "2026-11-19T23:16:21Z",
+        "message": "Reached expected number of succeeded pods",
+        "reason": "CompletionsReached",
+        "status": "True",
+        "type": "Complete"
+      }
+    ],
+    "ready": 0,
+    "startTime": "2026-11-19T23:16:04Z",
+    "succeeded": 1,
+    "terminating": 0,
+    "uncountedTerminatedPods": {}
+  }
+}

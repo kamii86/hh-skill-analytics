@@ -1,0 +1,393 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:03Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "kind": "Pod",
+        "name": "hh-oom-64-ftd7p",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1057",
+        "uid": "2e512567-5189-414f-b2e8-efed4d6d6927"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:03Z",
+      "message": "Successfully assigned hh-k8s/hh-oom-64-ftd7p to hh-k8s",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:03Z",
+        "name": "hh-oom-64-ftd7p.18e9950badfb0b85",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1061",
+        "uid": "0b14d4af-ba50-46d1-a3d5-0c68d57b06fc"
+      },
+      "reason": "Scheduled",
+      "reportingComponent": "default-scheduler",
+      "reportingInstance": "",
+      "source": {
+        "component": "default-scheduler"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:04Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-oom-64-ftd7p",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1060",
+        "uid": "2e512567-5189-414f-b2e8-efed4d6d6927"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:04Z",
+      "message": "Container image \"hh-skills:k8s\" already present on machine and can be accessed by the pod",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:04Z",
+        "name": "hh-oom-64-ftd7p.18e9950bdc6a4c90",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1064",
+        "uid": "d852f52c-68a1-4131-937e-d5729049e8fa"
+      },
+      "reason": "Pulled",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:04Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-oom-64-ftd7p",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1060",
+        "uid": "2e512567-5189-414f-b2e8-efed4d6d6927"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:04Z",
+      "message": "Container created",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:04Z",
+        "name": "hh-oom-64-ftd7p.18e9950bde1b7b95",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1066",
+        "uid": "cf24620f-19a8-46d1-ae10-95a23f9d4f79"
+      },
+      "reason": "Created",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:04Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-oom-64-ftd7p",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1060",
+        "uid": "2e512567-5189-414f-b2e8-efed4d6d6927"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:04Z",
+      "message": "Container started",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:04Z",
+        "name": "hh-oom-64-ftd7p.18e9950be0cfb468",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1067",
+        "uid": "f8054278-1a71-4bf8-9173-10ab592990af"
+      },
+      "reason": "Started",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:03Z",
+      "involvedObject": {
+        "apiVersion": "batch/v1",
+        "kind": "Job",
+        "name": "hh-oom-64",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1056",
+        "uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:03Z",
+      "message": "Created pod: hh-oom-64-ftd7p",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:03Z",
+        "name": "hh-oom-64.18e9950baca13e4a",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1058",
+        "uid": "5d295ca9-0cac-4db8-b91a-1d83b55ec9ec"
+      },
+      "reason": "SuccessfulCreate",
+      "reportingComponent": "job-controller",
+      "reportingInstance": "",
+      "source": {
+        "component": "job-controller"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:08Z",
+      "involvedObject": {
+        "apiVersion": "batch/v1",
+        "kind": "Job",
+        "name": "hh-oom-64",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1079",
+        "uid": "8842f5ff-ba86-4c40-9aa0-4c87745b947f"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:08Z",
+      "message": "Job has reached the specified backoff limit",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:08Z",
+        "name": "hh-oom-64.18e9950cdb487021",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1082",
+        "uid": "3e3bd4e9-f5e9-453e-8369-3c148528b88e"
+      },
+      "reason": "BackoffLimitExceeded",
+      "reportingComponent": "job-controller",
+      "reportingInstance": "",
+      "source": {
+        "component": "job-controller"
+      },
+      "type": "Warning"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:09:36Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "kind": "Pod",
+        "name": "hh-profile-c5kfb",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1014",
+        "uid": "a9bebcb9-a900-467e-ba6e-62a500fb4fbe"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:09:36Z",
+      "message": "Successfully assigned hh-k8s/hh-profile-c5kfb to hh-k8s",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:09:36Z",
+        "name": "hh-profile-c5kfb.18e9950532824ace",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1018",
+        "uid": "7023b9e4-0a50-4be5-9639-93278a4c25e7"
+      },
+      "reason": "Scheduled",
+      "reportingComponent": "default-scheduler",
+      "reportingInstance": "",
+      "source": {
+        "component": "default-scheduler"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:09:36Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-profile-c5kfb",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1017",
+        "uid": "a9bebcb9-a900-467e-ba6e-62a500fb4fbe"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:09:36Z",
+      "message": "Container image \"hh-skills:k8s\" already present on machine and can be accessed by the pod",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:09:36Z",
+        "name": "hh-profile-c5kfb.18e995054f10ba29",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1021",
+        "uid": "8a800238-fb79-4ff9-9c33-b1b26bcbfe2d"
+      },
+      "reason": "Pulled",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:09:36Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-profile-c5kfb",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1017",
+        "uid": "a9bebcb9-a900-467e-ba6e-62a500fb4fbe"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:09:36Z",
+      "message": "Container created",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:09:36Z",
+        "name": "hh-profile-c5kfb.18e99505655d3bed",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1023",
+        "uid": "91b7087e-6610-4b5b-83d6-30346e75afa5"
+      },
+      "reason": "Created",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:09:36Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{skills}",
+        "kind": "Pod",
+        "name": "hh-profile-c5kfb",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1017",
+        "uid": "a9bebcb9-a900-467e-ba6e-62a500fb4fbe"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:09:36Z",
+      "message": "Container started",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:09:36Z",
+        "name": "hh-profile-c5kfb.18e99505683657f2",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1024",
+        "uid": "60988720-7cdc-49cc-ade8-3a3420f27632"
+      },
+      "reason": "Started",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:09:35Z",
+      "involvedObject": {
+        "apiVersion": "batch/v1",
+        "kind": "Job",
+        "name": "hh-profile",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1013",
+        "uid": "c072069e-3b22-4108-9f18-09ebb52af347"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:09:35Z",
+      "message": "Created pod: hh-profile-c5kfb",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:09:35Z",
+        "name": "hh-profile.18e995052e7868fa",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1015",
+        "uid": "cdc88992-4470-492a-bdd1-7447dc78089a"
+      },
+      "reason": "SuccessfulCreate",
+      "reportingComponent": "job-controller",
+      "reportingInstance": "",
+      "source": {
+        "component": "job-controller"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-19T23:10:01Z",
+      "involvedObject": {
+        "apiVersion": "batch/v1",
+        "kind": "Job",
+        "name": "hh-profile",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1051",
+        "uid": "c072069e-3b22-4108-9f18-09ebb52af347"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-19T23:10:01Z",
+      "message": "Job completed",
+      "metadata": {
+        "creationTimestamp": "2026-11-19T23:10:01Z",
+        "name": "hh-profile.18e9950b386bc1f6",
+        "namespace": "hh-k8s",
+        "resourceVersion": "1054",
+        "uid": "1dd755ad-bcc3-45fb-b3f5-e8cdcd5d2f0f"
+      },
+      "reason": "Completed",
+      "reportingComponent": "job-controller",
+      "reportingInstance": "",
+      "source": {
+        "component": "job-controller"
+      },
+      "type": "Normal"
+    }
+  ],
+  "kind": "List",
+  "metadata": {
+    "resourceVersion": ""
+  }
+}

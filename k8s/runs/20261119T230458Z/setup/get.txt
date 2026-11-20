@@ -1,0 +1,2 @@
+NAME     STATUS   ROLES           AGE     VERSION   INTERNAL-IP    EXTERNAL-IP   OS-IMAGE                         KERNEL-VERSION             CONTAINER-RUNTIME
+hh-k8s   Ready    control-plane   5m45s   v1.37.0   192.168.49.2   <none>        Debian GNU/Linux 12 (bookworm)   6.12.54-linuxkit (arm64)   containerd://2.3.4

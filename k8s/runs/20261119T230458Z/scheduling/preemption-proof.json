@@ -1,0 +1,119 @@
+{
+  "victim_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+  "preemptor_uid": "ca8a32d2-4692-4591-bc0e-91448a27f884",
+  "victim_released": true,
+  "evidence": [
+    {
+      "kind": "event",
+      "object": {
+        "apiVersion": "v1",
+        "count": 1,
+        "eventTime": null,
+        "firstTimestamp": "2026-11-20T10:40:16Z",
+        "involvedObject": {
+          "apiVersion": "v1",
+          "kind": "Pod",
+          "name": "hh-low",
+          "namespace": "hh-k8s",
+          "resourceVersion": "37744",
+          "uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c"
+        },
+        "kind": "Event",
+        "lastTimestamp": "2026-11-20T10:40:16Z",
+        "message": "Preempted by pod ca8a32d2-4692-4591-bc0e-91448a27f884 on node hh-k8s",
+        "metadata": {
+          "creationTimestamp": "2026-11-20T10:40:16Z",
+          "name": "hh-low.18e9bab5cc2f795b",
+          "namespace": "hh-k8s",
+          "resourceVersion": "37751",
+          "uid": "4cf88de4-1158-4ad5-b535-094f897d11ff"
+        },
+        "reason": "Preempted",
+        "reportingComponent": "default-scheduler",
+        "reportingInstance": "",
+        "source": {
+          "component": "default-scheduler"
+        },
+        "type": "Normal"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    },
+    {
+      "kind": "condition",
+      "pod_uid": "43177d28-f2ef-4d90-8f91-6488212b1e4c",
+      "condition": {
+        "lastProbeTime": null,
+        "lastTransitionTime": "2026-11-20T10:40:16Z",
+        "message": "default-scheduler: preempting to accommodate a higher priority pod",
+        "observedGeneration": 1,
+        "reason": "PreemptionByScheduler",
+        "status": "True",
+        "type": "DisruptionTarget"
+      }
+    }
+  ]
+}

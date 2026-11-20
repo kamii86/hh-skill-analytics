@@ -1,0 +1,119 @@
+{
+  "apiVersion": "batch/v1",
+  "kind": "Job",
+  "metadata": {
+    "annotations": {
+      "kubectl.kubernetes.io/last-applied-configuration": "{\"apiVersion\":\"batch/v1\",\"kind\":\"Job\",\"metadata\":{\"annotations\":{},\"name\":\"hh-reduce\",\"namespace\":\"hh-k8s\"},\"spec\":{\"activeDeadlineSeconds\":1800,\"backoffLimit\":0,\"template\":{\"metadata\":{\"labels\":{\"lab\":\"skills\"}},\"spec\":{\"containers\":[{\"args\":[\"reduce\",\"--prefix\",\"kubernetes/20261119T230458Z\",\"--single-prefix\",\"kubernetes/20261119T230458Z/single\"],\"envFrom\":[{\"configMapRef\":{\"name\":\"s3-config\"}},{\"secretRef\":{\"name\":\"s3-credentials\"}}],\"image\":\"hh-skills:k8s\",\"imagePullPolicy\":\"Never\",\"name\":\"skills\",\"resources\":{\"limits\":{\"cpu\":\"1\",\"memory\":\"256Mi\"},\"requests\":{\"cpu\":\"200m\",\"memory\":\"16Mi\"}}}],\"restartPolicy\":\"Never\"}}}}\n"
+    },
+    "creationTimestamp": "2026-11-19T23:17:45Z",
+    "generation": 1,
+    "labels": {
+      "batch.kubernetes.io/controller-uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d",
+      "batch.kubernetes.io/job-name": "hh-reduce",
+      "controller-uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d",
+      "job-name": "hh-reduce",
+      "lab": "skills"
+    },
+    "name": "hh-reduce",
+    "namespace": "hh-k8s",
+    "resourceVersion": "1686",
+    "uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d"
+  },
+  "spec": {
+    "activeDeadlineSeconds": 1800,
+    "backoffLimit": 0,
+    "completionMode": "NonIndexed",
+    "completions": 1,
+    "manualSelector": false,
+    "parallelism": 1,
+    "podReplacementPolicy": "TerminatingOrFailed",
+    "selector": {
+      "matchLabels": {
+        "batch.kubernetes.io/controller-uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d"
+      }
+    },
+    "suspend": false,
+    "template": {
+      "metadata": {
+        "labels": {
+          "batch.kubernetes.io/controller-uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d",
+          "batch.kubernetes.io/job-name": "hh-reduce",
+          "controller-uid": "a6f311f4-52a0-45ed-878b-7f3d31fcf81d",
+          "job-name": "hh-reduce",
+          "lab": "skills"
+        }
+      },
+      "spec": {
+        "containers": [
+          {
+            "args": [
+              "reduce",
+              "--prefix",
+              "kubernetes/20261119T230458Z",
+              "--single-prefix",
+              "kubernetes/20261119T230458Z/single"
+            ],
+            "envFrom": [
+              {
+                "configMapRef": {
+                  "name": "s3-config"
+                }
+              },
+              {
+                "secretRef": {
+                  "name": "s3-credentials"
+                }
+              }
+            ],
+            "image": "hh-skills:k8s",
+            "imagePullPolicy": "Never",
+            "name": "skills",
+            "resources": {
+              "limits": {
+                "cpu": "1",
+                "memory": "256Mi"
+              },
+              "requests": {
+                "cpu": "200m",
+                "memory": "16Mi"
+              }
+            },
+            "terminationMessagePath": "/dev/termination-log",
+            "terminationMessagePolicy": "File"
+          }
+        ],
+        "dnsPolicy": "ClusterFirst",
+        "restartPolicy": "Never",
+        "schedulerName": "default-scheduler",
+        "securityContext": {},
+        "terminationGracePeriodSeconds": 30
+      }
+    }
+  },
+  "status": {
+    "completionTime": "2026-11-19T23:17:50Z",
+    "conditions": [
+      {
+        "lastProbeTime": "2026-11-19T23:17:50Z",
+        "lastTransitionTime": "2026-11-19T23:17:50Z",
+        "message": "Reached expected number of succeeded pods",
+        "reason": "CompletionsReached",
+        "status": "True",
+        "type": "SuccessCriteriaMet"
+      },
+      {
+        "lastProbeTime": "2026-11-19T23:17:50Z",
+        "lastTransitionTime": "2026-11-19T23:17:50Z",
+        "message": "Reached expected number of succeeded pods",
+        "reason": "CompletionsReached",
+        "status": "True",
+        "type": "Complete"
+      }
+    ],
+    "ready": 0,
+    "startTime": "2026-11-19T23:17:45Z",
+    "succeeded": 1,
+    "terminating": 0,
+    "uncountedTerminatedPods": {}
+  }
+}

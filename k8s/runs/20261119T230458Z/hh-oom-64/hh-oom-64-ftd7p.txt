@@ -1,0 +1,72 @@
+Name:             hh-oom-64-ftd7p
+Namespace:        hh-k8s
+Priority:         0
+Service Account:  default
+Node:             hh-k8s/192.168.49.2
+Start Time:       Fri, 20 Nov 2026 02:10:03 +0300
+Labels:           batch.kubernetes.io/controller-uid=8842f5ff-ba86-4c40-9aa0-4c87745b947f
+                  batch.kubernetes.io/job-name=hh-oom-64
+                  controller-uid=8842f5ff-ba86-4c40-9aa0-4c87745b947f
+                  job-name=hh-oom-64
+                  lab=skills
+Annotations:      <none>
+Status:           Failed
+IP:               10.244.0.4
+IPs:
+  IP:           10.244.0.4
+Controlled By:  Job/hh-oom-64
+Containers:
+  skills:
+    Container ID:  containerd://bd70ae0f82f080a1f9c5f916fec27817b76528e33cd57e8b71bdb4d30272ba7c
+    Image:         hh-skills:k8s
+    Image ID:      sha256:84e2f9f61f81ee94d4303658860d0253f3ecbeff83d895a87f07fc48fb95acfa
+    Port:          <none>
+    Host Port:     <none>
+    Args:
+      run
+      --prefix
+      kubernetes/20261119T230458Z/oom-64
+    State:          Terminated
+      Reason:       OOMKilled
+      Exit Code:    137
+      Started:      Fri, 20 Nov 2026 02:10:04 +0300
+      Finished:     Fri, 20 Nov 2026 02:10:06 +0300
+    Ready:          False
+    Restart Count:  0
+    Limits:
+      cpu:     1
+      memory:  64Mi
+    Requests:
+      cpu:     200m
+      memory:  16Mi
+    Environment Variables from:
+      s3-config       ConfigMap  Optional: false
+      s3-credentials  Secret     Optional: false
+    Environment:      <none>
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-gxp8g (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   False 
+  Initialized                 True 
+  Ready                       False 
+  ContainersReady             False 
+  PodScheduled                True 
+Volumes:
+  kube-api-access-gxp8g:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type    Reason     Age   From               Message
+  ----    ------     ----  ----               -------
+  Normal  Scheduled  7s    default-scheduler  Successfully assigned hh-k8s/hh-oom-64-ftd7p to hh-k8s
+  Normal  Pulled     6s    kubelet            spec.containers{skills}: Container image "hh-skills:k8s" already present on machine and can be accessed by the pod
+  Normal  Created    6s    kubelet            spec.containers{skills}: Container created
+  Normal  Started    6s    kubelet            spec.containers{skills}: Container started

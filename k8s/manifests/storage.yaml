@@ -1,0 +1,97 @@
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata: {name: hh-lab-storage}
+value: 10000
+globalDefault: false
+preemptionPolicy: Never
+description: Keep the S3 service outside the preemption experiment
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: rustfs-data
+  namespace: hh-k8s
+spec:
+  accessModes: [ReadWriteOnce]
+  resources:
+    requests:
+      storage: 15Gi
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rustfs
+  namespace: hh-k8s
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: rustfs
+  template:
+    metadata:
+      labels:
+        app: rustfs
+    spec:
+      priorityClassName: hh-lab-storage
+      securityContext:
+        fsGroup: 10001
+      containers:
+        - name: rustfs
+          # lab.py resolves latest to an immutable digest before applying.
+          image: rustfs/rustfs:latest
+          args: [/data]
+          ports:
+            - {containerPort: 9000, name: s3}
+            - {containerPort: 9001, name: console}
+          env:
+            - name: RUSTFS_ACCESS_KEY
+              valueFrom:
+                secretKeyRef: {name: s3-credentials, key: S3_ACCESS_KEY}
+            - name: RUSTFS_SECRET_KEY
+              valueFrom:
+                secretKeyRef: {name: s3-credentials, key: S3_SECRET_KEY}
+            - {name: RUSTFS_ADDRESS, value: ':9000'}
+            - {name: RUSTFS_CONSOLE_ADDRESS, value: ':9001'}
+            - {name: RUSTFS_CONSOLE_ENABLE, value: 'true'}
+            - {name: RUSTFS_OBS_LOG_DIRECTORY, value: /data/logs}
+          resources:
+            requests: {cpu: 200m, memory: 256Mi}
+            limits: {cpu: '1', memory: 1536Mi}
+          readinessProbe:
+            tcpSocket: {port: 9000}
+            initialDelaySeconds: 5
+            periodSeconds: 3
+          volumeMounts:
+            - {name: data, mountPath: /data}
+      volumes:
+        - name: data
+          persistentVolumeClaim: {claimName: rustfs-data}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: rustfs
+  namespace: hh-k8s
+spec:
+  selector: {app: rustfs}
+  ports:
+    - {name: s3, port: 9000, targetPort: 9000}
+    - {name: console, port: 9001, targetPort: 9001}
+---
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata: {name: hh-lab-low-v2}
+value: -1000
+globalDefault: false
+preemptionPolicy: Never
+description: Low priority workload for the laboratory experiment
+---
+apiVersion: scheduling.k8s.io/v1
+kind: PriorityClass
+metadata: {name: hh-lab-high-v2}
+value: -500
+globalDefault: false
+preemptionPolicy: PreemptLowerPriority
+description: High priority workload for the laboratory experiment

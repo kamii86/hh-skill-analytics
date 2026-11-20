@@ -1,0 +1,6 @@
+{
+  "remaining_mcpu": 100,
+  "high_request_mcpu": 200,
+  "low_priority": -1000,
+  "high_priority": -500
+}

@@ -1,0 +1,1 @@
+{"event": "start", "mode": "run", "source": "raw/Raw_Jobs.csv", "chunk_size": 5000}

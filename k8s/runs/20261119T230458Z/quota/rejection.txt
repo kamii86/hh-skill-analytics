@@ -1,0 +1,1 @@
+Error from server (Forbidden): error when creating "STDIN": pods "quota-second" is forbidden: exceeded quota: compute, requested: requests.cpu=300m, used: requests.cpu=300m, limited: requests.cpu=500m

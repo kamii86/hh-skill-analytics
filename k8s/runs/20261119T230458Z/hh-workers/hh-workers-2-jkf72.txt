@@ -1,0 +1,74 @@
+Name:             hh-workers-2-jkf72
+Namespace:        hh-k8s
+Priority:         0
+Service Account:  default
+Node:             hh-k8s/192.168.49.2
+Start Time:       Fri, 20 Nov 2026 02:17:31 +0300
+Labels:           batch.kubernetes.io/controller-uid=0330c4c1-2a33-46b0-8312-b5e4c41ad628
+                  batch.kubernetes.io/job-completion-index=2
+                  batch.kubernetes.io/job-name=hh-workers
+                  controller-uid=0330c4c1-2a33-46b0-8312-b5e4c41ad628
+                  job-name=hh-workers
+                  lab=skills
+Annotations:      batch.kubernetes.io/job-completion-index: 2
+Status:           Succeeded
+IP:               10.244.0.12
+IPs:
+  IP:           10.244.0.12
+Controlled By:  Job/hh-workers
+Containers:
+  skills:
+    Container ID:  containerd://4942149439a3ee4861abf1261bf04c0c16c2bce802f7215454faae12cfe306bc
+    Image:         hh-skills:k8s
+    Image ID:      sha256:84e2f9f61f81ee94d4303658860d0253f3ecbeff83d895a87f07fc48fb95acfa
+    Port:          <none>
+    Host Port:     <none>
+    Args:
+      worker
+      --prefix
+      kubernetes/20261119T230458Z
+    State:          Terminated
+      Reason:       Completed
+      Exit Code:    0
+      Started:      Fri, 20 Nov 2026 02:17:32 +0300
+      Finished:     Fri, 20 Nov 2026 02:17:39 +0300
+    Ready:          False
+    Restart Count:  0
+    Limits:
+      cpu:     1
+      memory:  128Mi
+    Requests:
+      cpu:     200m
+      memory:  16Mi
+    Environment Variables from:
+      s3-config       ConfigMap  Optional: false
+      s3-credentials  Secret     Optional: false
+    Environment:
+      JOB_COMPLETION_INDEX:   (v1:metadata.annotations['batch.kubernetes.io/job-completion-index'])
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-xg8p6 (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   False 
+  Initialized                 True 
+  Ready                       False 
+  ContainersReady             False 
+  PodScheduled                True 
+Volumes:
+  kube-api-access-xg8p6:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type    Reason     Age   From               Message
+  ----    ------     ----  ----               -------
+  Normal  Scheduled  14s   default-scheduler  Successfully assigned hh-k8s/hh-workers-2-jkf72 to hh-k8s
+  Normal  Pulled     13s   kubelet            spec.containers{skills}: Container image "hh-skills:k8s" already present on machine and can be accessed by the pod
+  Normal  Created    13s   kubelet            spec.containers{skills}: Container created
+  Normal  Started    13s   kubelet            spec.containers{skills}: Container started

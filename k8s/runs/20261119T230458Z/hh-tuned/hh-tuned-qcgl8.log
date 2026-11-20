@@ -1,0 +1,6 @@
+{"event": "start", "mode": "run", "source": "raw/Raw_Jobs.csv", "chunk_size": 5000}
+{"event": "progress", "chunks": 25, "peak_bytes": 104321024}
+{"event": "progress", "chunks": 50, "peak_bytes": 105426944}
+{"event": "progress", "chunks": 75, "peak_bytes": 107503616}
+{"event": "progress", "chunks": 100, "peak_bytes": 109735936}
+{"event": "summary", "mode": "run", "source": "raw/Raw_Jobs.csv", "chunk_size": 5000, "seconds": 16.804775966003945, "peak_bytes": 110284800, "memory_metric": "cgroup_v2_peak", "suggested_limit_mib": 144, "stats": {"total_rows": 561989, "selected_rows": 321, "rows_with_skills": 262, "duplicate_rows": 3}, "unique_pairs": 3674, "pair_occurrences": 6039}

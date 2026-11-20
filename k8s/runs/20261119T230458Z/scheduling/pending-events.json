@@ -1,0 +1,170 @@
+{
+  "apiVersion": "v1",
+  "items": [
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-20T10:39:58Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "kind": "Pod",
+        "name": "hh-cpu-holder",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37686",
+        "uid": "6a852366-503d-46a2-b4b9-356e24de5571"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-20T10:39:58Z",
+      "message": "Successfully assigned hh-k8s/hh-cpu-holder to hh-k8s",
+      "metadata": {
+        "creationTimestamp": "2026-11-20T10:39:58Z",
+        "name": "hh-cpu-holder.18e9bab1b52ae66c",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37688",
+        "uid": "dae92c8b-95fd-45c6-958d-040431a4f313"
+      },
+      "reason": "Scheduled",
+      "reportingComponent": "default-scheduler",
+      "reportingInstance": "",
+      "source": {
+        "component": "default-scheduler"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-20T10:39:59Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{sleep}",
+        "kind": "Pod",
+        "name": "hh-cpu-holder",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37687",
+        "uid": "6a852366-503d-46a2-b4b9-356e24de5571"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-20T10:39:59Z",
+      "message": "Container image \"hh-skills:k8s\" already present on machine and can be accessed by the pod",
+      "metadata": {
+        "creationTimestamp": "2026-11-20T10:39:59Z",
+        "name": "hh-cpu-holder.18e9bab1dcd94d0b",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37694",
+        "uid": "9a1941ec-ba30-4155-a444-f792418798f0"
+      },
+      "reason": "Pulled",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-20T10:39:59Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{sleep}",
+        "kind": "Pod",
+        "name": "hh-cpu-holder",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37687",
+        "uid": "6a852366-503d-46a2-b4b9-356e24de5571"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-20T10:39:59Z",
+      "message": "Container created",
+      "metadata": {
+        "creationTimestamp": "2026-11-20T10:39:59Z",
+        "name": "hh-cpu-holder.18e9bab1e0d5fe68",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37695",
+        "uid": "8a6290e5-583e-4075-89bc-93c254f9bc02"
+      },
+      "reason": "Created",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-20T10:39:59Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "fieldPath": "spec.containers{sleep}",
+        "kind": "Pod",
+        "name": "hh-cpu-holder",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37687",
+        "uid": "6a852366-503d-46a2-b4b9-356e24de5571"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-20T10:39:59Z",
+      "message": "Container started",
+      "metadata": {
+        "creationTimestamp": "2026-11-20T10:39:59Z",
+        "name": "hh-cpu-holder.18e9bab1e55cb2fd",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37696",
+        "uid": "3424e18a-8b18-4edc-a7cb-76bb3ec81ba6"
+      },
+      "reason": "Started",
+      "reportingComponent": "kubelet",
+      "reportingInstance": "hh-k8s",
+      "source": {
+        "component": "kubelet",
+        "host": "hh-k8s"
+      },
+      "type": "Normal"
+    },
+    {
+      "apiVersion": "v1",
+      "count": 1,
+      "eventTime": null,
+      "firstTimestamp": "2026-11-20T10:40:00Z",
+      "involvedObject": {
+        "apiVersion": "v1",
+        "kind": "Pod",
+        "name": "hh-cpu-waiter",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37698",
+        "uid": "f2a93db1-bd3d-43e6-bc4c-a66454cfd9fb"
+      },
+      "kind": "Event",
+      "lastTimestamp": "2026-11-20T10:40:00Z",
+      "message": "0/1 nodes are available: 1 Insufficient cpu. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod.",
+      "metadata": {
+        "creationTimestamp": "2026-11-20T10:40:00Z",
+        "name": "hh-cpu-waiter.18e9bab1fdd2ab1e",
+        "namespace": "hh-k8s",
+        "resourceVersion": "37699",
+        "uid": "f2ad0762-43b0-414c-ac93-829eacb0e1a4"
+      },
+      "reason": "FailedScheduling",
+      "reportingComponent": "default-scheduler",
+      "reportingInstance": "",
+      "source": {
+        "component": "default-scheduler"
+      },
+      "type": "Warning"
+    }
+  ],
+  "kind": "List",
+  "metadata": {
+    "resourceVersion": ""
+  }
+}

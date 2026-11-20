@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+.venv*
+__pycache__
+**/__pycache__
+data
+results
+logs
+*.pdf
+*.zip
+k8s/runs
+k8s/.local-state.json
